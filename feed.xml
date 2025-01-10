@@ -1,731 +1,234 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://jkfx.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://jkfx.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2025-01-08T11:48:04+00:00</updated><id>https://jkfx.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design. </subtitle><entry><title type="html">a post with image galleries</title><link href="https://jkfx.github.io/blog/2024/photo-gallery/" rel="alternate" type="text/html" title="a post with image galleries"/><published>2024-12-04T01:59:00+00:00</published><updated>2024-12-04T01:59:00+00:00</updated><id>https://jkfx.github.io/blog/2024/photo-gallery</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/photo-gallery/"><![CDATA[<p>The images in this post are all zoomable, arranged into different mini-galleries using different libraries.</p> <h2 id="lightbox2"><a href="https://lokeshdhakar.com/projects/lightbox2/">Lightbox2</a></h2> <p><a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/></a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/></a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-lightbox="roadtrip"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/></a></p> <hr/> <h2 id="photoswipe"><a href="https://photoswipe.com/">PhotoSwipe</a></h2> <div class="pswp-gallery pswp-gallery--single-column" id="gallery--getting-started"> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg" data-pswp-width="1669" data-pswp-height="2500" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg" alt=""/> </a> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-2500.jpg" data-pswp-width="1875" data-pswp-height="2500" data-cropped="true" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/7/img-200.jpg" alt=""/> </a> <a href="https://unsplash.com" data-pswp-src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg" data-pswp-width="2500" data-pswp-height="1666" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" alt=""/> </a> <div> <a href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg" data-pswp-width="2500" data-pswp-height="1667" target="_blank"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg" alt=""/> </a> </div> </div> <hr/> <h2 id="spotlight-js"><a href="https://nextapps-de.github.io/spotlight/">Spotlight JS</a></h2> <div class="spotlight-group"> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/> </a> </div> <div class="spotlight-group"> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/4/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/5/img-200.jpg"/> </a> <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-2500.jpg"> <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/6/img-200.jpg"/> </a> </div> <hr/> <h2 id="venobox"><a href="https://veno.es/venobox/">Venobox</a></h2> <p><a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-200.jpg"/></a> <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/2/img-200.jpg"/></a> <a class="venobox" data-gall="myGallery" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-2500.jpg"><img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg"/></a></p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="images"/><summary type="html"><![CDATA[this is what included image galleries could look like]]></summary></entry><entry><title type="html">Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra</title><link href="https://jkfx.github.io/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/" rel="alternate" type="text/html" title="Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra"/><published>2024-05-14T00:00:00+00:00</published><updated>2024-05-14T00:00:00+00:00</updated><id>https://jkfx.github.io/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/google-gemini-updates-flash-15-gemma-2-and-project-astra/"><![CDATA[]]></content><author><name></name></author><summary type="html"><![CDATA[We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.]]></summary></entry><entry><title type="html">a post with tabs</title><link href="https://jkfx.github.io/blog/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://jkfx.github.io/blog/2024/tabs</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">tabs</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="cp">%}</span>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn"><generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator><link href="https://jkfx.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://jkfx.github.io/" rel="alternate" type="text/html" hreflang="cn"/><updated>2025-01-10T07:28:45+00:00</updated><id>https://jkfx.github.io/feed.xml</id><title type="html">blank</title><subtitle></subtitle><entry><title type="html">Ubuntu 22.04 安装 MySQL</title><link href="https://jkfx.github.io/blog/2022/Ubuntu-22.04-%E5%AE%89%E8%A3%85-MySQL/" rel="alternate" type="text/html" title="Ubuntu 22.04 安装 MySQL"/><published>2022-10-27T21:39:00+00:00</published><updated>2022-10-27T21:39:00+00:00</updated><id>https://jkfx.github.io/blog/2022/Ubuntu%2022.04%20%E5%AE%89%E8%A3%85%20MySQL</id><content type="html" xml:base="https://jkfx.github.io/blog/2022/Ubuntu-22.04-%E5%AE%89%E8%A3%85-MySQL/"><![CDATA[<p>本文记录了在 Ubuntu 22.04 下安装 MySQL 8.0 和 5.7 版本的步骤。</p> <h2 id="下载文件">下载文件</h2> <p>在 <a href="https://downloads.mysql.com/archives/community/">https://downloads.mysql.com/archives/community/</a> 发行地址中选择 <code class="language-plaintext highlighter-rouge">Linux - Generic</code> 操作系统，选择对应的 MySQL 版本后，下载 MySQL 的压缩包。</p> <p>本文下载的 8.0.30 以及 5.7.39 版本。</p> <h2 id="安装-mysql-57--80">安装 MySQL 5.7 / 8.0</h2> <p>以管理员权限添加 <code class="language-plaintext highlighter-rouge">mysql</code> 的组以及用户。</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$&gt;</span> groupadd mysql
+<span class="nv">$&gt;</span> useradd <span class="nt">-r</span> <span class="nt">-g</span> mysql <span class="nt">-s</span> /bin/false mysql
+</code></pre></div></div> <p>之后进入到 <code class="language-plaintext highlighter-rouge">/usr/local</code> 目录中，将下载好的压缩包解压到该目录，并且建立一个符号链接对应到解压缩出的文件目录，之后创建必需文件夹以及给目录授权。</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$&gt;</span> <span class="nb">cd</span> /usr/local
+<span class="nv">$&gt;</span> <span class="nb">tar </span>xvf /压缩文件目录/mysql-VERSION-OS.tar.xz
+<span class="nv">$&gt;</span> <span class="nb">ln</span> <span class="nt">-s</span> mysql-VERSION-OS mysql
+<span class="nv">$&gt;</span> <span class="nb">cd </span>mysql
+<span class="nv">$&gt;</span> <span class="nb">mkdir </span>mysql-files
+<span class="nv">$&gt;</span> <span class="nb">chown </span>mysql:mysql mysql-files
+<span class="nv">$&gt;</span> <span class="nb">chmod </span>750 mysql-files
+</code></pre></div></div> <blockquote> <p>如果提示权限不够在命令前面加 <code class="language-plaintext highlighter-rouge">sudo</code> 使用管理员账户执行。</p> </blockquote> <p>将 <code class="language-plaintext highlighter-rouge">mysql</code> 目录添加到环境变量中，以便可以在终端中执行 MySQL 执行文件。可以选择添加到 <code class="language-plaintext highlighter-rouge">/etc/profile</code> 系统环境变量的文件中。</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">export </span><span class="nv">PATH</span><span class="o">=</span><span class="nv">$PATH</span>:/usr/local/mysql/bin
+</code></pre></div></div> <p>之后进入到 <code class="language-plaintext highlighter-rouge">/usr/local/mysql</code> 目录中，执行 MySQL 的初始化命令。</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$&gt;</span> <span class="nb">cd</span> /usr/local/mysql
+<span class="nv">$&gt;</span> bin/mysqld <span class="nt">--initialize</span> <span class="nt">--user</span><span class="o">=</span>mysql
+<span class="c"># 或者执行 bin/mysqld --initialize-insecure --user=mysql</span>
+<span class="c"># --initialize 表明初始化 MySQL 时给 root 账户设一个随机值组成的初始密码</span>
+<span class="c"># --initialize-insecure 表明初始化 MySQL 时给 root 账户设一个空密码</span>
+<span class="c"># 如果当前终端执行 mysqld 的账户是 mysql 也可以忽略 --user=mysql</span>
+</code></pre></div></div> <p>初始化成功之后进入到 <code class="language-plaintext highlighter-rouge">mysql</code> 环境中，给 <code class="language-plaintext highlighter-rouge">root</code> 账户重新设置一个密码。</p> <p>如果使用 <code class="language-plaintext highlighter-rouge">--initialize</code> 命令，注意终端输出中 <code class="language-plaintext highlighter-rouge">root</code> 的初始随机密码，下面登录使用。</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c"># 使用 --initialize</span>
+<span class="nv">$&gt;</span> mysql <span class="nt">-u</span> root <span class="nt">-p</span>
+<span class="c"># 输入密码登录</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-1</span><span class="w"> </span><span class="cp">%}</span>
+<span class="c"># 使用 --initialize-insecure</span>
+<span class="nv">$&gt;</span> mysql <span class="nt">-u</span> root <span class="nt">--skip-password</span>
+</code></pre></div></div> <blockquote> <p>如果显示无法连接，可能是没启动 MySQL 服务，执行下面语句开启 MySQL 服务。</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$&gt;</span> <span class="nb">cd</span> /usr/local/mysql/support-files
+<span class="nv">$&gt;</span> ./mysql.server start
+</code></pre></div> </div> </blockquote> <p>进入到 MySQL 环境后，执行 SQL 语句修改 <code class="language-plaintext highlighter-rouge">root</code> 账号密码。</p> <div class="language-sql highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="o">#</span> <span class="err">修改</span> <span class="n">root</span> <span class="err">账号密码</span>
+<span class="k">ALTER</span> <span class="k">USER</span> <span class="s1">'root'</span><span class="o">@</span><span class="s1">'localhost'</span> <span class="n">IDENTIFIED</span> <span class="k">BY</span> <span class="s1">'root-password'</span><span class="p">;</span>
+</code></pre></div></div> <h2 id="设置-mysql-服务自动运行">设置 MySQL 服务自动运行</h2> <p>进入到 MySQL 的安装目录，复制支持文件到系统启动脚本目录中，并设置默认运行级别。</p> <div class="language-shell highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$&gt;</span> <span class="nb">cd</span> /usr/local/mysql/support-files
+<span class="nv">$&gt;</span> <span class="nb">cp </span>mysql.server /etc/init.d/mysql
+<span class="nv">$&gt;</span> <span class="nb">chmod</span> +x /etc/init.d/mysql
+<span class="nv">$&gt;</span> update-rc.d mysql defaults
+</code></pre></div></div> <p>注销或者重启， MySQL 服务已经自动启动。</p> <blockquote> <p>如果需要在 5.7 和 8.0 版本之间切换，以同样的步骤执行 MySQL 的初始化命令，将 <code class="language-plaintext highlighter-rouge">/usr/local/mysql</code> 这个符号链接替换为对应的版本目录即可。</p> </blockquote>]]></content><author><name></name></author><summary type="html"><![CDATA[本文记录了在 Ubuntu 22.04 下安装 MySQL 8.0 和 5.7 版本的步骤。]]></summary></entry><entry><title type="html">Clean Architecture</title><link href="https://jkfx.github.io/blog/2022/Clean-Architecture/" rel="alternate" type="text/html" title="Clean Architecture"/><published>2022-07-16T19:41:00+00:00</published><updated>2022-07-16T19:41:00+00:00</updated><id>https://jkfx.github.io/blog/2022/Clean%20Architecture</id><content type="html" xml:base="https://jkfx.github.io/blog/2022/Clean-Architecture/"><![CDATA[<blockquote> <p>by Robert C. Martin (Uncle Bob)<br/> 13 August 2012<br/> <a href="https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html">https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html</a></p> </blockquote> <p><img src="https://tva2.sinaimg.cn/large/006VTcCxly1h48ouqtk4uj30lg0frjxl.jpg" alt="image"/></p> <p>在过去的几十年间，我们已经看到了一系列的关于系统架构的想法。其中包括：</p> <ul> <li><a href="http://alistair.cockburn.us/Hexagonal+architecture">Hexagonal Architecture</a> （也叫 <em>Ports and Adapters</em>）在 <a href="http://www.amazon.com/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627">Growing Object Oriented Software</a> 一书中有着描述</li> <li><a href="http://jeffreypalermo.com/blog/the-onion-architecture-part-1/">Onion Architecture</a></li> <li><a href="http://blog.cleancoders.com/2011-09-30-Screaming-Architecture">Screaming Architecture</a></li> <li><a href="http://www.amazon.com/Lean-Architecture-Agile-Software-Development/dp/0470684208/">DCI</a></li> <li><a href="http://www.amazon.com/Object-Oriented-Software-Engineering-Approach/dp/0201544350">BCE</a> 在 <em>Object Oriented Software Engineering: A Use-Case Driven Approach</em> 一书</li> </ul> <p>尽管这些架构在细节上都有着不同之处，它们都是非常相似的。它们都有一个目标，那就是 <strong>关注点分离</strong>（<em>the separation of concerns</em>）。它们通过将软件进行分层实现了这一分离。每一个架构都至少有一层是关于业务规则的，并且另一个是关于接口的处理。</p> <p>这些架构都产生了这样的系统：</p> <ol> <li>独立于框架。这些架构都没有依赖于已存在功能丰富的一些库。这使得你可以使用这些框架作为工具，而不是将你的系统塞进到它们的有限的约束中。</li> <li>可测试性。在没有UI 、数据库、Web 服务器以及其它任何外部元素的情况下,业务逻辑可以被测试。</li> <li>独立于 UI。UI 可以被轻易改变，并且无需影响系统中其它部分。例如，Web UI 可以被替换为终端 UI ，无需改变任何业务规则。</li> <li>独立于数据库。你可以使用 Mongo，BigTable，CouchDB或其它数据库换掉 Oracle 或 SQL Server。你的业务逻辑不受限在数据库中。</li> <li>独立于任何外部机构。事实上，你的业务逻辑根本不了解外部世界。</li> </ol> <p>本篇文章顶部的图片是整合这些架构到一个可行的想法的一个尝试。</p> <h2 id="the-dependency-rule">The Dependency Rule</h2> <blockquote> <p>依赖规则</p> </blockquote> <p>同心圆代表了软件的不同范围。通常来讲，你走的越远，软件就变成了更高的层次。外面的圆是机制（<em>mechanisms</em>），内部的圆是政策（<em>policies</em>）。</p> <p>使得架构运作凌驾一切的规则就是 <strong>依赖规则</strong>（<em>The Dependency Rule</em>）。这一规则说明了：源码中的依赖仅可以指向内部。内部的圆中不允许知道关于外部圆中的任何事物。尤其是一些声明在外部圆中的名称决不允许在内部圆中提及。其中包括：函数、类、变量或其它任何命名的软件实体。</p> <p>出于同样的原因，用在外部圆中的数据格式也不应该被用在内部圆中，尤其是当这些格式是被框架在外部圆中生成出来的时候。我们不想在外部圆中的任何事物影响到内部圆。</p> <h3 id="entities">Entities</h3> <blockquote> <p>实体</p> </blockquote> <p>实体封装了企业范围的业务规则。一个实体可以是带有方法的对象，或者也可以是数据结构和函数的集合。无关紧要的是只要实体可以被企业中许多不同的应用使用即可。</p> <p>如果你并没有一个企业，并且只是单纯的想写一个单一的应用，那么这些实体都是应用的业务对象。它们封装了最通用并且高阶的规则。当外部某些事物改变时，它们是最不可能被改变的。例如，你不会期待这些对象被外部页面导航栏或者安全性的改变而受到影响。任何特定的应用的操作性的改变都不会影响到实体层。</p> <h2 id="use-cases">Use Cases</h2> <blockquote> <p>用例</p> </blockquote> <p>软件中这一层包含了特定的应用业务规则。它封装并实现了系统中所有的用例。这些用例协调了进出实体的数据流，并且指导这些实体到使用它们企业范围业务规则用来实现用例的目标。</p> <p>我们并不期待对这一层的改变影响实体。我们也不期待这一层被外部的改变而受到影响，例如数据库、UI或其它任何常见的普遍框架。这一层与此类问题隔离。</p> <p>但是，我们确实期待应用的操作改变将会影响用例层，并且从而因影响这一层中的软件。如果用例层改变的细节，那么在这一层的某些代码将肯定收到影响。</p> <h2 id="interface-adapters">Interface Adapters</h2> <blockquote> <p>接口适配器</p> </blockquote> <p>在这一层的软件是一个适配器（<em>adapters</em>）的集合，适配器用来将数据从最方便用于用例层和实体层的格式，转换到最方便用于某些外部机构例如数据库或Web的格式。例如，正是这一层整个包含了GUI中的MVC架构。Presenters、VIews和Controllers全部属于这层。模型可只是从controllers传入到用例层的数据结构，并且之后从用例层返回到presenters和views。</p> <p>相似地是，在这一层，数据从最方便用于实体层和用例层的形式，被转换到最方便用于任何一个正在使用的持久框架的形式。这一层的圆中的代码不应该知道任何关于数据库的一切事物。如果数据库是一个SQL数据库，那么所有的SQL应该被限制到这一层，并且尤其是必须限制在这一层与数据库交互的部分。</p> <p>在这一层中还有任何其他适配器，用于将数据从某种外部形式（例如外部服务）转换为用例和实体使用的内部形式。</p> <h2 id="frameworks-and-drivers">Frameworks and Drivers</h2> <blockquote> <p>框架和驱动</p> </blockquote> <p>最外层通常是由框架和工具的组成，例如数据库和 Web 框架等等。通常来说，你不需要在这一层编写太多的代码，而是编写与下一圆圈交互的胶水语言。</p> <p>这一层是所有细节（<em>details</em>）的所在。Web 是一个细节。数据库也是一个细节。我们保持这些事物放在外部，它们不会造成任何破坏。</p> <h2 id="only-four-circles">Only Four Circles?</h2> <blockquote> <p>仅有四个圆？</p> </blockquote> <p>No，这些圆圈都是示意图。你也许会发现你需要多于这四个。没有规则说你必须总是有正好这四个圆。但是，<strong>依赖规则</strong>（<em>The Dependency Rule</em>）总是适用。代码中的依赖总是指向内部。随着你往内部的移动，抽象的层次就会增加。最外层的圆是低层次的具体细节。随着你往内部移动，软件变得更抽象，并且封装高阶的政策（<em>policies</em>）。最内层的圆是最具有普遍性。</p> <h2 id="crossing-boundaries">Crossing boundaries</h2> <blockquote> <p>跨越边界</p> </blockquote> <p>图中的右下方是一个我们如何跨越圆圈边界的示例。它显示了Controllers和Presenters与用例层在下一层的交互。注意控制流。它从controller开始，遍历用例层，并且之后在presenter执行结束。也注意代码中的依赖。它们每一个指向用例层的内部。</p> <p>通常我们使用<a href="http://en.wikipedia.org/wiki/Dependency_inversion_principle">依赖反转原则</a>解决这一明显的矛盾。例如，在诸如Java的语言中，我们将安排接口和继承关系，以便源代码依赖关系在跨越边界的正确点减少控制流。</p> <p>例如，考虑到用例层需要调用presenter。但是，这个调用必须不能是直接调用，因为将会违反依赖原则：外圈的名字不能被内圈提及。所以我们在内圈中让用例调用一个接口（这里显示为用例输出端口<em>Use Case Output Port</em>），并让外圈中的presenter实现它。</p> <p>相同的技术被用于跨越所有架构中的边界上。我们采用了动态多态性的有点来创建代码依赖，减少控制流，无论控制流走向哪个方向，都以便于我们遵守依赖原则。</p> <h2 id="what-data-crosses-the-boundaries">What data crosses the boundaries</h2> <blockquote> <p>什么数据跨越边界</p> </blockquote> <p>通常来讲，跨越边界的数据仅仅是数据结构。你可以使用基本结构或简单的数据转换（<em>Data Transfer</em>）对象。或者，数据也可以仅仅是函数调用中的参数。或者你可以将它打包到HashMap中，或者构建它成为一个对象。重要的事情是隔离的、简单的数据结构被传进跨越边界。我们不希望作弊并传递Entity或数据库的某一行。我们也不希望数据结构有任何一个类型违反依赖原则。</p> <p>例如，许多数据库框架在查询响应中返回一个便捷的数据格式。我们也许称之为RowStructure。我们不希望传递行结构到内部跨越边界。这会违反依赖原则，因为它将强制一个内部圆去知道某些外部圆中的事物。</p> <p>所以，当我们传递数据跨越边界时，它总是采用最适合内圈的形式。</p> <h2 id="conclusion">Conclusion</h2> <blockquote> <p>总结</p> </blockquote> <p>遵守这些简单的规则并不难，并且将节省你大量的麻烦事。通过将软件分层，并且遵守依赖原则，你讲创建一个本质上可测试的系统，并具有所有暗含的好处。当系统中任何一个外部部分过时的时候，例如数据库或Web框架，你可以以最少的体力替换掉过时的元素。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[by Robert C. Martin (Uncle Bob) 13 August 2012 https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html]]></summary></entry><entry><title type="html">LaTeX Workshop 配置信息</title><link href="https://jkfx.github.io/blog/2022/Ubuntu-22.04-MacOS-Monterey-%E4%B8%BB%E9%A2%98/" rel="alternate" type="text/html" title="LaTeX Workshop 配置信息"/><published>2022-05-28T22:03:00+00:00</published><updated>2022-05-28T22:03:00+00:00</updated><id>https://jkfx.github.io/blog/2022/Ubuntu%2022.04%20MacOS%20Monterey%20%E4%B8%BB%E9%A2%98</id><content type="html" xml:base="https://jkfx.github.io/blog/2022/Ubuntu-22.04-MacOS-Monterey-%E4%B8%BB%E9%A2%98/"><![CDATA[<p>首先更新源以及升级软件：</p> <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt update
+<span class="nb">sudo </span>apt upgrade
+</code></pre></div></div> <blockquote> <p>也可以更新一下驱动：</p> <p><code class="language-plaintext highlighter-rouge">sudo ubuntu-drivers autoinstall</code></p> </blockquote> <hr/> <p>之后安装 <code class="language-plaintext highlighter-rouge">gnome-tweaks</code> 以及 <code class="language-plaintext highlighter-rouge">gnome-shell-extensions</code> ：</p> <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">sudo </span>apt <span class="nb">install </span>gnome-tweaks gnome-shell-extensions
+</code></pre></div></div> <p>到<em>GNOME Shell Extensions</em>网站安装谷歌浏览器扩展：<a href="https://extensions.gnome.org/">https://extensions.gnome.org/</a> 。</p> <p>接下来安装 <em>User Themes</em> 主题插件： <a href="https://extensions.gnome.org/extension/19/user-themes/">https://extensions.gnome.org/extension/19/user-themes/</a> 。</p> <hr/> <p>克隆 GitHub 上的 <em>WhiteSur-gtk-theme</em> 主题： <a href="https://github.com/vinceliuice/WhiteSur-gtk-theme">https://github.com/vinceliuice/WhiteSur-gtk-theme</a> 到任意你想存放的目录。</p> <p>进入到 <em>WhiteSur-gtk-theme</em> 目录下，找到 <code class="language-plaintext highlighter-rouge">install.sh</code> 以及 <code class="language-plaintext highlighter-rouge">tweaks.sh</code> 脚本文件，执行命令安装主题：</p> <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>./install.sh <span class="nt">-t</span> all <span class="nt">-N</span> glassy <span class="nt">-s</span> 220
+<span class="nb">sudo</span> ./tweaks.sh <span class="nt">-g</span> <span class="nt">-f</span> monterey
+</code></pre></div></div> <p>下载并提取 <em>Mkos-Big-Sur</em> 图标包到你的 <strong>home</strong> 下的 <code class="language-plaintext highlighter-rouge">.icons</code> 目录： <a href="https://www.gnome-look.org/p/1400021">https://www.gnome-look.org/p/1400021</a> 。</p> <hr/> <p>找到 Ubuntu 应用程序 优化（<em>tweaks</em>），选择 <em>外观</em> 菜单，在 <em>图标</em> 、 <em>Shell</em> 以及 <em>过时应用程序</em> 中应用 <em>WhiteSur-</em> 主题以及 <em>Mkos-Big-Sur</em> 图标包。</p> <p>在 <em>窗口标题栏</em> 菜单中将 <em>标题栏按钮</em> 放置到 <em>左</em> 侧。</p> <p>在 <em>GNOME Shell Extensions</em> 网站安装 <em>Blur my Shell</em> 插件： <a href="https://extensions.gnome.org/extension/3193/blur-my-shell/">https://extensions.gnome.org/extension/3193/blur-my-shell/</a> 。</p> <p>在 <em>GNOME Shell Extensions</em> 网站安装 <em>Compiz alike magic lamp effect</em> 插件： <a href="https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/">https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/</a> 。</p> <p>在终端中执行命令：</p> <div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gsettings <span class="nb">set </span>org.gnome.shell.extensions.dash-to-dock click-action <span class="s1">'minimize'</span>
+</code></pre></div></div> <p>找到 Ubuntu 应用程序的 扩展（<em>extensions</em>），找到 <em>Blur my Shell</em> 扩展，点击 <em>设置</em> 按钮，在 <em>Dash</em> 窗口中将 <em>Dash to Dock blur</em> 选项取消勾选。</p> <p>最后，选择一张你喜欢的 MacOS 壁纸，也可以到这个 GitHub 仓库下载： <a href="https://github.com/vinceliuice/WhiteSur-wallpapers">https://github.com/vinceliuice/WhiteSur-wallpapers</a> 。</p> <ul> <li>参考链接： <a href="https://youtu.be/Y6k7THQ3x6U">https://youtu.be/Y6k7THQ3x6U</a></li> </ul> <hr/> <p>常用 Gnome Shell Extensions</p> <ul> <li><a href="https://extensions.gnome.org/extension/1460/vitals/">Vitals</a></li> <li><a href="https://extensions.gnome.org/extension/675/lunar-calendar/">Lunar Calendar 农历</a></li> <li><a href="https://extensions.gnome.org/extension/1401/bluetooth-quick-connect/">Bluetooth Quick Connect</a></li> <li><a href="https://extensions.gnome.org/extension/3740/compiz-alike-magic-lamp-effect/">Compiz alike magic lamp effect</a></li> <li><a href="https://extensions.gnome.org/extension/3438/jiggle/">Jiggle</a></li> </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[首先更新源以及升级软件：]]></summary></entry><entry><title type="html">CASIA-WebMaskedFace 模拟佩戴口罩人脸数据集</title><link href="https://jkfx.github.io/blog/2022/CASIA-WebMaskedFace-%E6%A8%A1%E6%8B%9F%E4%BD%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E4%BA%BA%E8%84%B8%E6%95%B0%E6%8D%AE%E9%9B%86/" rel="alternate" type="text/html" title="CASIA-WebMaskedFace 模拟佩戴口罩人脸数据集"/><published>2022-04-14T10:55:00+00:00</published><updated>2022-04-14T10:55:00+00:00</updated><id>https://jkfx.github.io/blog/2022/CASIA-WebMaskedFace%20%E6%A8%A1%E6%8B%9F%E4%BD%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E4%BA%BA%E8%84%B8%E6%95%B0%E6%8D%AE%E9%9B%86</id><content type="html" xml:base="https://jkfx.github.io/blog/2022/CASIA-WebMaskedFace-%E6%A8%A1%E6%8B%9F%E4%BD%A9%E6%88%B4%E5%8F%A3%E7%BD%A9%E4%BA%BA%E8%84%B8%E6%95%B0%E6%8D%AE%E9%9B%86/"><![CDATA[<p>Based on CASIA-WebFace Dataset using MaskTheFace tool mask the face images of datasets.</p> <p>基于CASIA-WebFace数据集，使用MaskTheFace工具给数据集中的人脸图像“戴上口罩”。</p> <h2 id="数据集介绍">数据集介绍</h2> <p>此数据集是在源数据集 <a href="https://arxiv.org/pdf/1411.7923v1.pdf">CASIA-Webface</a> 之上，使用 <a href="https://arxiv.org/abs/2008.11104">MaskTheFace</a> 工具对 CASIA-Webface 数据集中的图像进行佩戴口罩，此数据所涉及到的口罩类型有：Surgical（白色医用外科口罩）、Surgical Blue（蓝色医用外科口罩）、N95、KN95以及Cloth（黑色布质口罩）。口罩的分布类型都是均匀分布随机生成的。</p> <p><img src="https://tvax4.sinaimg.cn/large/006VTcCxly1h191411yh2j313w0aujyr.jpg" alt="image"/></p> <p>关于口罩类型以及口罩颜色和材质的类型的更多介绍，可以查看 <a href="https://github.com/aqeelanwar/MaskTheFace">原工具仓库</a> 。</p> <p>CASIA-WebMaskedFace 有 10,575 个实体人物， 494,414 张人脸图像。</p> <blockquote> <p>此数据集是在 CASIA-Webface 数据集原封不动的基础上进行配到口罩的模拟，所以与原数据集有相同的实体和图像数量。</p> </blockquote> <p>武汉大学国家多媒体软件工程技术研究中心在最早做了相关的 <a href="https://arxiv.org/abs/2003.09093">研究</a> ，也提出了当时最大的模拟口罩人脸数据集和一个真实世界的人脸佩戴口罩的数据集。</p> <p><a href="https://arxiv.org/abs/2008.11104">Aqeel Anwar, Arijit Raychowdhury</a> 在之后也提出了一个真实世界佩戴口罩的人脸数据集，并且提出了一个工具，也就是上文提到的 <a href="https://github.com/aqeelanwar/MaskTheFace">MaskTheFace</a> 用来在已有的人脸数据集上进行模拟佩戴口罩。</p> <h3 id="数据示例">数据示例</h3> <p><img src="https://tvax1.sinaimg.cn/large/006VTcCxly1h191m9mhfyj30pf0atwme.jpg" alt="image"/></p> <p><img src="https://tvax4.sinaimg.cn/large/006VTcCxly1h191pig6fmj30pm0al7be.jpg" alt="image"/></p> <p><img src="https://tvax2.sinaimg.cn/large/006VTcCxly1h191ojwfj1j30pd0aswmv.jpg" alt="image"/></p> <p><img src="https://tvax1.sinaimg.cn/large/006VTcCxly1h191qg3bm0j30pe0amwn6.jpg" alt="image"/></p> <h2 id="下载地址">下载地址</h2> <ul class="task-list"> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Kaggle：<a href="https://www.kaggle.com/datasets/geekfx/casia-webmaskedface">https://www.kaggle.com/datasets/geekfx/casia-webmaskedface</a></li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked"/>Kaggle (cropped using MTCNN, 160x160)：<a href="https://www.kaggle.com/datasets/geekfx/casia-webmaskedface-cropped">https://www.kaggle.com/datasets/geekfx/casia-webmaskedface-cropped</a></li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>百度网盘</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>Google Drive</li> <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled"/>GitHub</li> </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Based on CASIA-WebFace Dataset using MaskTheFace tool mask the face images of datasets.]]></summary></entry><entry><title type="html">LaTeX Workshop 配置信息</title><link href="https://jkfx.github.io/blog/2022/LaTeX-Workshop-%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/" rel="alternate" type="text/html" title="LaTeX Workshop 配置信息"/><published>2022-02-25T12:33:00+00:00</published><updated>2022-02-25T12:33:00+00:00</updated><id>https://jkfx.github.io/blog/2022/LaTeX%20Workshop%20%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF</id><content type="html" xml:base="https://jkfx.github.io/blog/2022/LaTeX-Workshop-%E9%85%8D%E7%BD%AE%E4%BF%A1%E6%81%AF/"><![CDATA[<p>使用 VS Code 编写 LaTeX 论文时，安装 LaTeX Workshop 插件可以实现非常多的功能，但是由于 LaTeX Workshop 默认配置的编译命令是 <code class="language-plaintext highlighter-rouge">latexmk</code> ，而在编写中文论文时通常需要使用 <code class="language-plaintext highlighter-rouge">xelatex</code> 命令来编译文件源代码，所以为了正常使用 LaTeX Workshop 编写中文论文，通常需要对 LaTeX Workshop 进行自定义修改。</p> <p>以下是笔者根据官方文档自己修改的设置选项信息，每一项的设置上面都写好了中文注释，也为了日后笔者更方便的进行配置、修改。</p> <blockquote> <p>关于 LaTeX Workshop 的配置官方文档信息，可以参考 <a href="https://github.com/James-Yu/LaTeX-Workshop/wiki">LaTeX Workshop GitHub Wiki</a></p> </blockquote> <p>本文给出 3 种编译方式：</p> <ul> <li>使用 <code class="language-plaintext highlighter-rouge">xelatex</code> 命令编译两次</li> </ul> <blockquote> <p>通常生成目录时，通常先编译一次生成目录所需的辅助文件，例如目录项等，然后编译第二遍结合辅助文件生成最终的 PDF</p> </blockquote> <ul> <li>使用 <code class="language-plaintext highlighter-rouge">BibTeX</code> 参考文献工具时所需用到的编译命令</li> <li>使用 <code class="language-plaintext highlighter-rouge">BibLaTeX</code> 参考文献所需用到的编译命令</li> </ul> <div class="language-js highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1">// ******** LaTeX Workshop 配置信息 ********</span>
+<span class="c1">// 文件修改时不自动编译</span>
+<span class="c1">// "never", "onSave", "onFileChange"</span>
+<span class="dl">"</span><span class="s2">latex-workshop.latex.autoBuild.run</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">never</span><span class="dl">"</span><span class="p">,</span>
+<span class="c1">// LaTeX Workshop 编译源代码文件的快捷键默认为：ctrl + alt + b</span>
+<span class="c1">// 但是在有些情况下，ctrl + alt 快捷键被占用</span>
+<span class="c1">// 将下面设置项改为 true 可以启动替代的快捷键</span>
+<span class="c1">// ctrl + l / alt + letter</span>
+<span class="dl">"</span><span class="s2">latex-workshop.bind.altKeymap.enabled</span><span class="dl">"</span><span class="p">:</span> <span class="kc">false</span><span class="p">,</span>
+<span class="c1">// 编译文件时选用哪种 recipes 方案</span>
+<span class="c1">// recipes 的定义在下文</span>
+<span class="c1">// "first" （默认）为定义在下文 recipes 中的第一项</span>
+<span class="c1">// "lastUsed" 为上次使用运行的 recipe</span>
+<span class="dl">"</span><span class="s2">latex-workshop.latex.recipe.default</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">lastUsed</span><span class="dl">"</span><span class="p">,</span>
+<span class="c1">// 预览生产的 pdf 文件方式：在 vscode 窗口中预览</span>
+<span class="dl">"</span><span class="s2">latex-workshop.view.pdf.viewer</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">tab</span><span class="dl">"</span><span class="p">,</span>
+<span class="c1">// 设置在使用 LaTeX Workshop 编译后，自动清理辅助文件</span>
+<span class="c1">// 也可以设置为 "never" 表示不自动清理辅助文件</span>
+<span class="c1">// 设置 "onFailed" 为当编译失败时自动清理辅助文件</span>
+<span class="dl">"</span><span class="s2">latex-workshop.latex.autoClean.run</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">onBuilt</span><span class="dl">"</span><span class="p">,</span>
+<span class="c1">// 编译 LaTeX 时使用的工具（tool）顺序</span>
+<span class="c1">// 工具（tool）需要自定义</span>
+<span class="dl">"</span><span class="s2">latex-workshop.latex.recipes</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+    <span class="c1">// 没有参考文献的编译方式</span>
+    <span class="c1">// 为了正确生成目录项，一般需要编译两次源代码</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">tools</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span>
+        <span class="p">]</span>
+    <span class="p">},</span>
+    <span class="c1">// 使用 BibTeX 参考文献工具的编译方式</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">xelatex ➞ bibtex ➞ xelatex × 2</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">tools</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">bibtex</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span>
+        <span class="p">]</span>
+    <span class="p">},</span>
+    <span class="c1">// 使用 BibLaTeX 参考文献工具的编译方式</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">xelatex ➞ biber ➞ xelatex × 2</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">tools</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">biber</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span>
+        <span class="p">]</span>
+    <span class="p">}</span>
+<span class="p">],</span>
+<span class="c1">// 定义 recipes 中工具的命令以及参数</span>
+<span class="c1">// 以下列出 LaTeX Workshop 定义好的占位符</span>
+<span class="c1">// %DOC%             The root file full path without the extension</span>
+<span class="c1">// %DOC_W32%         The root file full path without the extension with \ path separator on Windows</span>
+<span class="c1">// %DOCFILE%         The root file name without the extension</span>
+<span class="c1">// %DOC_EXT%         The root file full path with the extension</span>
+<span class="c1">// %DOC_EXT_W32%     The root file full path with the extension with \ path separator on Windows</span>
+<span class="c1">// %DOCFILE_EXT%     The root file name with the extension</span>
+<span class="c1">// %DIR%             The root file directory</span>
+<span class="c1">// %DIR_W32%         The root file directory with \ path separator on Windows</span>
+<span class="c1">// %TMPDIR%             A temporary folder for storing ancillary files</span>
+<span class="c1">// %OUTDIR%             The output directory configured in latex-workshop.latex.outDir</span>
+<span class="c1">// %OUTDIR_W32%         The output directory configured in latex-workshop.latex.outDir with \ path separator on Windows</span>
+<span class="c1">// %WORKSPACE_FOLDER% The current workspace path</span>
+<span class="c1">// %RELATIVE_DIR%     The root file directory relative to the workspace folder</span>
+<span class="c1">// %RELATIVE_DOC%     file root file path relative to the workspace folder</span>
+<span class="dl">"</span><span class="s2">latex-workshop.latex.tools</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">command</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">xelatex</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">args</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+            <span class="dl">"</span><span class="s2">-synctex=1</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">-interaction=nonstopmode</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">-file-line-error</span><span class="dl">"</span><span class="p">,</span>
+            <span class="dl">"</span><span class="s2">%DOC%</span><span class="dl">"</span>
+        <span class="p">],</span>
+        <span class="dl">"</span><span class="s2">env</span><span class="dl">"</span><span class="p">:</span> <span class="p">{}</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">bibtex</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">command</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">bibtex</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">args</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+            <span class="dl">"</span><span class="s2">%DOCFILE%</span><span class="dl">"</span>
+        <span class="p">],</span>
+        <span class="dl">"</span><span class="s2">env</span><span class="dl">"</span><span class="p">:</span> <span class="p">{}</span>
+    <span class="p">},</span>
+    <span class="p">{</span>
+        <span class="dl">"</span><span class="s2">name</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">biber</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">command</span><span class="dl">"</span><span class="p">:</span> <span class="dl">"</span><span class="s2">biber</span><span class="dl">"</span><span class="p">,</span>
+        <span class="dl">"</span><span class="s2">args</span><span class="dl">"</span><span class="p">:</span> <span class="p">[</span>
+            <span class="dl">"</span><span class="s2">%DOCFILE%</span><span class="dl">"</span>
+        <span class="p">],</span>
+        <span class="dl">"</span><span class="s2">env</span><span class="dl">"</span><span class="p">:</span> <span class="p">{}</span>
+    <span class="p">}</span>
+<span class="p">],</span>
+</code></pre></div></div> <p>使用以上配置选项将上述代码拷贝到你的 VS Code 的 <code class="language-plaintext highlighter-rouge">json</code> 设置文件下即可。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[使用 VS Code 编写 LaTeX 论文时，安装 LaTeX Workshop 插件可以实现非常多的功能，但是由于 LaTeX Workshop 默认配置的编译命令是 latexmk ，而在编写中文论文时通常需要使用 xelatex 命令来编译文件源代码，所以为了正常使用 LaTeX Workshop 编写中文论文，通常需要对 LaTeX Workshop 进行自定义修改。]]></summary></entry><entry><title type="html">关于Linux下LaTeX无法找到已安装字体的问题与解决</title><link href="https://jkfx.github.io/blog/2021/%E5%85%B3%E4%BA%8ELinux%E4%B8%8BLaTeX%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0%E5%B7%B2%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3/" rel="alternate" type="text/html" title="关于Linux下LaTeX无法找到已安装字体的问题与解决"/><published>2021-08-12T22:47:00+00:00</published><updated>2021-08-12T22:47:00+00:00</updated><id>https://jkfx.github.io/blog/2021/%E5%85%B3%E4%BA%8ELinux%E4%B8%8BLaTeX%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0%E5%B7%B2%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3</id><content type="html" xml:base="https://jkfx.github.io/blog/2021/%E5%85%B3%E4%BA%8ELinux%E4%B8%8BLaTeX%E6%97%A0%E6%B3%95%E6%89%BE%E5%88%B0%E5%B7%B2%E5%AE%89%E8%A3%85%E5%AD%97%E4%BD%93%E7%9A%84%E9%97%AE%E9%A2%98%E4%B8%8E%E8%A7%A3%E5%86%B3/"><![CDATA[<p>当我在Ubuntu系统下使用Latex时，在编译渲染时报出了<code class="language-plaintext highlighter-rouge">Font "xxx" does not contain requested</code>这种错误，其中<code class="language-plaintext highlighter-rouge">xxx</code>就是你可能想使用的字体格式。</p> <p>然而我的Ubuntu系统已经正确安装了一些常用中文字体，然而在LaTeX编译渲染时还会报出错误。</p> <p>由于笔者为了解决这个问题翻遍了国内外的网站、去查看了Texlive官方文档，耗费了许多时间与精力，都没能找到解决我的问题的信息，人们的时间往往都很珍贵，一般找不到解决方案过后，往往都不了了之，本着互联网极客精神（<strong>开源精神</strong>），在这里将笔者的解决过程记录并分享，希望人们可以将这种精神继承并传承下去。</p> <blockquote> <p>我甚至在Texlive的官方安装文档中看到这么一段话：</p> <p><img src="https://tva2.sinaimg.cn/large/006VTcCxly1gtee10q7x6j31f10cbqgx.jpg" alt="image"/></p> <p>可以看到关乎于LaTeX排版中让人非常头疼的问题就是汉字的一些处理了，好在今天有非常多好用的宏包可以解决处理这个问题。</p> </blockquote> <p>首先看一下笔者出现的问题：</p> <p><img src="https://tva3.sinaimg.cn/large/006VTcCxly1gtedg611ydj60w00a9q7w02.jpg" alt="image"/></p> <p><img src="https://tva4.sinaimg.cn/large/006VTcCxly1gtediiunx3j618z07d79402.jpg" alt="image"/></p> <p>可以看到终端给出的错误提示是未能找到已安装的字体（<em>installed font not found</em>），有了这句话的提示，笔者想的可能是，在我的系统上已安装了的字体中，在LaTeX中未能正确地引用，查看代码中可以看到：</p> <p><img src="https://tvax4.sinaimg.cn/large/006VTcCxly1gtedm8youxj30mt061jvl.jpg" alt="image"/></p> <p>在这里设置字体格式的时候我们设置楷体对应的字体文件为<code class="language-plaintext highlighter-rouge">simkai</code>，我们可以查看我们的字体库中是否有<code class="language-plaintext highlighter-rouge">simkai.ttf</code>楷体的字体文件：</p> <p>在Ubuntu存放字体的目录<code class="language-plaintext highlighter-rouge">/usr/share/fonts/</code>下可以使用<code class="language-plaintext highlighter-rouge">find</code>命令查找：</p> <p><img src="https://tva1.sinaimg.cn/large/006VTcCxly1gtedq0ili0j61570aigqc02.jpg" alt="image"/></p> <p>可以看到，笔者的系统中已经存放了<code class="language-plaintext highlighter-rouge">simkai.ttf</code>这个字体文件，为什么LaTeX还没有找到这个字体呢。</p> <p>通过一番排查，原来是在Ubuntu中，对字体的使用并不仅仅是字体文件名，而是另一个别名。</p> <p>我们可以使用<code class="language-plaintext highlighter-rouge">fc-list</code>来查看系统可用的字体列表，然后使用<code class="language-plaintext highlighter-rouge">grep</code>匹配<code class="language-plaintext highlighter-rouge">simkai.ttf</code>的字体文件，可以进一步查看字体的信息：</p> <p><img src="https://tva1.sinaimg.cn/large/006VTcCxly1gtedsq4tgrj61580r9b2902.jpg" alt="image"/></p> <p>原来，图中1号框中的名字只是字体文件名，而在系统应用中想要使用这个字体，我们需要指定2号框中的字体名，例如本图，我们想要使用楷体就需要指定<code class="language-plaintext highlighter-rouge">KaiTi</code>或<code class="language-plaintext highlighter-rouge">楷体</code>这个名字。</p> <p>回到LaTeX代码中，将之前出现错误原因的<code class="language-plaintext highlighter-rouge">simkai</code>替换成<code class="language-plaintext highlighter-rouge">KaiTi</code>即可解决问题。</p> <p><img src="https://tva4.sinaimg.cn/large/006VTcCxly1gtedwcpyd0j60no06dtd402.jpg" alt="image"/></p> <p><img src="https://tvax3.sinaimg.cn/large/006VTcCxly1gteduycwvij60i102swf302.jpg" alt="image"/></p> <p>为了进一步验证笔者的猜想，可以看到上图代码中，在<code class="language-plaintext highlighter-rouge">KaiTi</code>的下面还使用了<code class="language-plaintext highlighter-rouge">SimSun</code>宋体的使用，然而<code class="language-plaintext highlighter-rouge">SimSun</code>并不报错，这里笔者想可以继续查看<code class="language-plaintext highlighter-rouge">SimSun</code>的字体信息，其后面的别名应该包含<code class="language-plaintext highlighter-rouge">SimSun</code>。</p> <p><img src="https://tva2.sinaimg.cn/large/006VTcCxly1gtedz60mqcj61540r77wh02.jpg" alt="image"/></p> <p>所以笔者的猜想是正确的，所以在我们不同的系统、不同的字体文件中，每个人发生无法正确找到我们想要使用的字体的错误可能都不一样，因为我们使用的字体文件不同可能导致我们的在应用中使用字体中需要引用的名称的不同而不同，所以出现这种问题我们要具体问题具体分析，对症下药。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[当我在Ubuntu系统下使用Latex时，在编译渲染时报出了Font "xxx" does not contain requested这种错误，其中xxx就是你可能想使用的字体格式。]]></summary></entry><entry><title type="html">Ubuntu 21.04 使用命令行分配静态IP地址</title><link href="https://jkfx.github.io/blog/2021/Ubuntu-21.04-%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%88%86%E9%85%8D%E9%9D%99%E6%80%81IP%E5%9C%B0%E5%9D%80/" rel="alternate" type="text/html" title="Ubuntu 21.04 使用命令行分配静态IP地址"/><published>2021-08-03T15:43:00+00:00</published><updated>2021-08-03T15:43:00+00:00</updated><id>https://jkfx.github.io/blog/2021/Ubuntu%2021.04%20%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%88%86%E9%85%8D%E9%9D%99%E6%80%81IP%E5%9C%B0%E5%9D%80</id><content type="html" xml:base="https://jkfx.github.io/blog/2021/Ubuntu-21.04-%E4%BD%BF%E7%94%A8%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%88%86%E9%85%8D%E9%9D%99%E6%80%81IP%E5%9C%B0%E5%9D%80/"><![CDATA[<h2 id="查看网卡-logical-name">查看网卡 logical name</h2> <p>输入 <code class="language-plaintext highlighter-rouge">sudo lshw -class network</code> 后回车，在列出的信息中找到 <code class="language-plaintext highlighter-rouge">local name</code> 键，查看其后面的值是多少。</p> <p><img src="//tva3.sinaimg.cn/large/006VTcCxly1gt3mt42tx4j315w0tsb1j.jpg" alt="image"/></p> <h2 id="编辑配置文件">编辑配置文件</h2> <p>以本文的 <code class="language-plaintext highlighter-rouge">ens32</code> 为例，下面我们进入到 <code class="language-plaintext highlighter-rouge">/etc/netplan</code> 目录下，使用 <code class="language-plaintext highlighter-rouge">cd /etc/netplan</code> 命令。</p> <p>然后使用 <code class="language-plaintext highlighter-rouge">sudo vim 99_config.yaml</code> 创建一个名为 <code class="language-plaintext highlighter-rouge">99_config.yaml</code> 的配置文件，并且在配置文件中编辑输入我们需要的网络地址信息。</p> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">network</span><span class="pi">:</span>
+  <span class="na">version</span><span class="pi">:</span> <span class="m">2</span>
+  <span class="na">renderer</span><span class="pi">:</span> <span class="s">networkd</span>
+  <span class="na">ethernets</span><span class="pi">:</span>
+    <span class="na">ens32</span><span class="pi">:</span>
+      <span class="na">addresses</span><span class="pi">:</span>
+        <span class="pi">-</span> <span class="s">192.168.187.101/24</span>
+      <span class="na">gateway4</span><span class="pi">:</span> <span class="s">192.168.187.2</span>
+      <span class="na">nameservers</span><span class="pi">:</span>
+          <span class="na">search</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">mydomain</span><span class="pi">,</span> <span class="nv">otherdomain</span><span class="pi">]</span>
+          <span class="na">addresses</span><span class="pi">:</span> <span class="pi">[</span><span class="nv">114.114.114.114</span><span class="pi">,</span> <span class="nv">8.8.8.8</span><span class="pi">]</span>
+</code></pre></div></div> <p><img src="//tvax3.sinaimg.cn/large/006VTcCxly1gt3n4s2pmaj317d0tuk3t.jpg" alt="image"/></p> <p>如图所示，讲配置文件中的键值对配置成我们需要的网络信息后，输入 <code class="language-plaintext highlighter-rouge">:wq</code> 保存并且退出。</p> <h2 id="刷新生效配置文件">刷新生效配置文件</h2> <p>然后我们输入 <code class="language-plaintext highlighter-rouge">sudo netplan apply</code> 将配置文件生效即可。</p> <p>可以输入 <code class="language-plaintext highlighter-rouge">ip a</code> 查看网络信息是否生效。</p> <p><img src="//tvax3.sinaimg.cn/large/006VTcCxly1gt3n6scooij31990t01kx.jpg" alt="image"/></p> <p>可以看到图中的IP地址已经变成了我们所需要的地址。</p> <h2 id="参考文档">参考文档</h2> <p><a href="https://ubuntu.com/server/docs/network-configuration">Network Configuration</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[查看网卡 logical name]]></summary></entry><entry><title type="html">批量下载YouTube播放列表（playlist）视频、字幕</title><link href="https://jkfx.github.io/blog/2021/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BDYouTube%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8-playlist-%E8%A7%86%E9%A2%91-%E5%AD%97%E5%B9%95/" rel="alternate" type="text/html" title="批量下载YouTube播放列表（playlist）视频、字幕"/><published>2021-07-21T15:30:00+00:00</published><updated>2021-07-21T15:30:00+00:00</updated><id>https://jkfx.github.io/blog/2021/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BDYouTube%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8%EF%BC%88playlist%EF%BC%89%E8%A7%86%E9%A2%91%E3%80%81%E5%AD%97%E5%B9%95</id><content type="html" xml:base="https://jkfx.github.io/blog/2021/%E6%89%B9%E9%87%8F%E4%B8%8B%E8%BD%BDYouTube%E6%92%AD%E6%94%BE%E5%88%97%E8%A1%A8-playlist-%E8%A7%86%E9%A2%91-%E5%AD%97%E5%B9%95/"><![CDATA[<h2 id="所需工具">所需工具</h2> <ul> <li><a href="https://www.python.org/downloads/">python</a></li> <li><a href="https://github.com/ytdl-org/youtube-dl/releases">youtube-dl</a></li> <li><a href="http://ffmpeg.org/download.html">FFmpeg</a></li> <li><em>Scientific上网</em></li> </ul> <p>其实可以直接使用<em>youtube-dl</em>执行文件直接下载，若我们需要对多个<em>YouTube</em>播放列表进行批量下载，便可利用<em>python</em>进行批处理，其中本文实现的功能就是对多个<em>YouTube</em>播放列表都创建一个对应的同名文件夹，然后将视频、字幕文件全部下载到一起。</p> <p>其中<em>FFmpeg</em>是<em>youtube-dl</em>用来合并视音频文件用的，虽然<em>YouTube</em>上视频的格式有<em>MP4</em>的格式，不需要对视频、音频文件进行合并，如果你需要下载<em>2K</em>、<em>4K</em>的高清晰度的视频文件，一般都是采用<em><a href="https://baike.baidu.com/item/WebM/2455966?fr=aladdin">webm</a></em>的格式将视频、音频文件分开。尽管如此，<em>youtube-dl</em>也已经为我们造好了轮子，合并视音频文件的步骤无需我们干扰，只需要将其所用的工具添加到系统的<strong>环境变量</strong>。</p> <p><strong>再次说明</strong>，你需要将下载下来的<em>youtube-dl</em>的可执行文件，以及<em>FFmpeg</em>的<strong><em>bin</em></strong>目录都添加到系统的<strong>环境变量</strong>中。</p> <h2 id="实现代码">实现代码</h2> <p>首先创建python的字典，其中<em>key</em>是播放列表的名称，也是将要创建文件夹的名称，<em>value</em>是播放列表（playlist）对应的YouTube链接。</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">os</span>
 
-Content 1
+<span class="n">m</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="sh">"</span><span class="s">key(播放列表的名称，也即创建文件夹的名称)</span><span class="sh">"</span><span class="p">:</span> <span class="sh">"</span><span class="s">YouTube播放列表链接</span><span class="sh">"</span>
+<span class="p">}</span>
+</code></pre></div></div> <p>这里以麻省理工公开课<a href="http://introtodeeplearning.com/">MIT 6.S191</a>为例，打开对应课程的YouTube播放列表。</p> <p><img src="//tva1.sinaimg.cn/large/006VTcCxgy1gsokx7w77oj31z2164e81.jpg" alt="image"/></p> <p>将对应播放列表的名称和链接放入python字典中。</p> <p>然后直接遍历此字典的<em>key</em>和<em>value</em>使用<em>os</em>库的<em>system</em>方法调用<em>youtube-dl</em>命令对视音频进行下载。</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nf">for </span><span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">v</span><span class="p">)</span> <span class="ow">in</span> <span class="n">m</span><span class="p">.</span><span class="nf">items</span><span class="p">():</span>
+    <span class="c1"># 创建同名文件夹
+</span>    <span class="n">os</span><span class="p">.</span><span class="nf">mkdir</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+    <span class="c1"># 进入到刚刚创建的文件夹中
+</span>    <span class="n">os</span><span class="p">.</span><span class="nf">chdir</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+    <span class="c1"># 调用 youtube-dl 命令对视频链接进行下载
+</span>    <span class="c1"># 本条命令下载的字幕是英文
+</span>    <span class="n">os</span><span class="p">.</span><span class="nf">system</span><span class="p">(</span><span class="sh">'</span><span class="s">youtube-dl --write-sub --sub-lang en -f </span><span class="sh">"</span><span class="s">bestvideo+bestaudio</span><span class="sh">"</span><span class="s"> -o </span><span class="sh">"</span><span class="s">%(title)s.%(ext)s</span><span class="sh">"</span><span class="s"> </span><span class="sh">'</span> <span class="o">+</span> <span class="n">v</span><span class="p">)</span>
+    <span class="c1"># 如果需要下载自动翻译的中文字幕，便需要执行下一行
+</span>    <span class="n">os</span><span class="p">.</span><span class="nf">system</span><span class="p">(</span><span class="sh">'</span><span class="s">youtube-dl --write-auto-sub --sub-lang zh-Hans --skip-download -o </span><span class="sh">"</span><span class="s">%(title)s.%(ext)s</span><span class="sh">"</span><span class="s"> </span><span class="sh">'</span> <span class="o">+</span> <span class="n">v</span><span class="p">)</span>
+    <span class="c1"># 返回到上一级目录
+</span>    <span class="n">os</span><span class="p">.</span><span class="nf">chdir</span><span class="p">(</span><span class="sh">"</span><span class="s">../</span><span class="sh">"</span><span class="p">)</span>
+</code></pre></div></div> <blockquote> <p>即使<em><a href="https://github.com/ytdl-org/youtube-dl/blob/master/README.md">youtube-dl</a></em>的<em>GitHub</em>上已经有非常详细的命令参数的说明，这里还是简单地说明一下。</p> <p>语法格式大体为：youtube-dl [OPTIONS] URL [URL…]</p> <p>本文所用到的选项有：</p> <ul> <li><em>–write-sub</em> 下载视频对应的字幕文件</li> <li><em>–sub-lang</em> 指定下载字幕文件的语言 <ul> <li><em>en</em> 英语</li> <li><em>zh-Hans</em> 中文简体</li> </ul> </li> <li><em>–write-auto-sub</em> 当原视频文件没有带中文简体的字幕时，需要使用本参数下载<em>自动翻译</em>的字幕文件</li> <li><em>-f</em> 指定视频格式 <ul> <li>这里的<em>bestvideo+bestaudio</em>的意思是下载视频清晰度最好的视频文件和音频质量最好的音频文件并且将它们合并</li> </ul> </li> <li><em>-o</em> 指定下载的文件的名称 <ul> <li><em>%(title)s</em> 表明视频文件的标题名</li> <li><em>%(ext)s</em> 下载文件的扩展格式</li> <li><em>%(autonumber)s</em> 如果你想要对每个下载文件名称前面加上一个序号，便使用这个参数</li> </ul> </li> <li><em>–skip-download</em> 跳过视频文件仅下载字幕文件</li> </ul> </blockquote> <h2 id="完整代码">完整代码</h2> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">os</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
+<span class="n">m</span> <span class="o">=</span> <span class="p">{</span>
+    <span class="sh">"</span><span class="s">MIT 6.046J Design and Analysis of Algorithms, Spring 2015</span><span class="sh">"</span><span class="p">:</span><span class="sh">"</span><span class="s">https://www.youtube.com/playlist?list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp</span><span class="sh">"</span><span class="p">,</span>
+    <span class="sh">"</span><span class="s">MIT 6.042J Mathematics for Computer Science, Fall 2010</span><span class="sh">"</span><span class="p">:</span> <span class="sh">"</span><span class="s">https://www.youtube.com/playlist?list=PLB7540DEDD482705B</span><span class="sh">"</span><span class="p">,</span>
+    <span class="sh">"</span><span class="s">MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning, Spring 2018</span><span class="sh">"</span><span class="p">:</span><span class="sh">"</span><span class="s">https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k</span><span class="sh">"</span><span class="p">,</span>
+    <span class="sh">"</span><span class="s">MIT 18.02 Multivariable Calculus, Fall 2007</span><span class="sh">"</span><span class="p">:</span><span class="sh">"</span><span class="s">https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38</span><span class="sh">"</span><span class="p">,</span>
+    <span class="sh">"</span><span class="s">MIT 18.01 Single Variable Calculus, Fall 2006</span><span class="sh">"</span><span class="p">:</span><span class="sh">"</span><span class="s">https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1</span><span class="sh">"</span>
+<span class="p">}</span>
 
-<span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-2</span><span class="w"> </span><span class="cp">%}</span>
-
-Content 2
-
-<span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
-
-<span class="cp">{%</span><span class="w"> </span><span class="nt">endtabs</span><span class="w"> </span><span class="cp">%}</span>
-</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="28edaa8f-4ea1-4dc9-897a-5ba15346e34a" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="28edaa8f-4ea1-4dc9-897a-5ba15346e34a" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
-</code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello</span><span class="dl">"</span><span class="p">);</span>
-</code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">pputs</span> <span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span>
-</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="813c30a7-e009-405a-b135-09e5b7e97766" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="813c30a7-e009-405a-b135-09e5b7e97766" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
-  <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
-  <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
-</code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
-  </span><span class="nl">"hello"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"whatsup"</span><span class="p">,</span><span class="w"> </span><span class="s2">"hi"</span><span class="p">]</span><span class="w">
-</span><span class="p">}</span><span class="w">
-</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="f6211f06-a253-4210-92e5-5b1f599b1805" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="f6211f06-a253-4210-92e5-5b1f599b1805" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://jkfx.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://jkfx.github.io/blog/2024/typograms</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
-</span><span class="sb">+----+
-|    |---&gt; My first diagram!
-+----+</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-typograms">+----+
-|    |---&gt; My first diagram!
-+----+
-</code></pre> <p>Another example:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
-</span><span class="sb">.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>which generates:</p> <pre><code class="language-typograms">.------------------------.
-|.----------------------.|
-||"https://example.com" ||
-|'----------------------'|
-| ______________________ |
-||                      ||
-||   Welcome!           ||
-||                      ||
-||                      ||
-||  .----------------.  ||
-||  | username       |  ||
-||  '----------------'  ||
-||  .----------------.  ||
-||  |"*******"       |  ||
-||  '----------------'  ||
-||                      ||
-||  .----------------.  ||
-||  |   "Sign-up"    |  ||
-||  '----------------'  ||
-||                      ||
-|+----------------------+|
-.------------------------.
-</code></pre> <p>For more examples, check out the <a href="https://google.github.io/typograms/#examples">typograms documentation</a>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="diagrams"/><summary type="html"><![CDATA[this is what included typograms code could look like]]></summary></entry><entry><title type="html">a post that can be cited</title><link href="https://jkfx.github.io/blog/2024/post-citation/" rel="alternate" type="text/html" title="a post that can be cited"/><published>2024-04-28T15:06:00+00:00</published><updated>2024-04-28T15:06:00+00:00</updated><id>https://jkfx.github.io/blog/2024/post-citation</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/post-citation/"><![CDATA[<p>This is an example post that can be cited. The content of the post ends here, while the citation information is automatically provided below. The only thing needed is for you to set the <code class="language-plaintext highlighter-rouge">citation</code> key in the front matter to <code class="language-plaintext highlighter-rouge">true</code>.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="citation"/><summary type="html"><![CDATA[this is what a post that can be cited looks like]]></summary></entry><entry><title type="html">a post with pseudo code</title><link href="https://jkfx.github.io/blog/2024/pseudocode/" rel="alternate" type="text/html" title="a post with pseudo code"/><published>2024-04-15T00:01:00+00:00</published><updated>2024-04-15T00:01:00+00:00</updated><id>https://jkfx.github.io/blog/2024/pseudocode</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/pseudocode/"><![CDATA[<p>This is an example post with some pseudo code rendered by <a href="https://github.com/SaswatPadhi/pseudocode.js">pseudocode</a>. The example presented here is the same as the one in the <a href="https://saswat.padhi.me/pseudocode.js/">pseudocode.js</a> documentation, with only one simple but important change: everytime you would use <code class="language-plaintext highlighter-rouge">$</code>, you should use <code class="language-plaintext highlighter-rouge">$$</code> instead. Also, note that the <code class="language-plaintext highlighter-rouge">pseudocode</code> key in the front matter is set to <code class="language-plaintext highlighter-rouge">true</code> to enable the rendering of pseudo code. As an example, using this code:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">pseudocode
-</span><span class="sb">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
-\PROCEDURE{Quicksort}{$$A, p, r$$}
-    \IF{$$p &lt; r$$}
-        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
-        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
-    \ENDIF
-\ENDPROCEDURE
-\PROCEDURE{Partition}{$$A, p, r$$}
-    \STATE $$x = A[r]$$
-    \STATE $$i = p - 1$$
-    \FOR{$$j = p$$ \TO $$r - 1$$}
-        \IF{$$A[j] &lt; x$$}
-            \STATE $$i = i + 1$$
-            \STATE exchange
-            $$A[i]$$ with $$A[j]$$
-        \ENDIF
-        \STATE exchange $$A[i]$$ with $$A[r]$$
-    \ENDFOR
-\ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Generates:</p> <pre><code class="language-pseudocode">% This quicksort algorithm is extracted from Chapter 7, Introduction to Algorithms (3rd edition)
-\begin{algorithm}
-\caption{Quicksort}
-\begin{algorithmic}
-\PROCEDURE{Quicksort}{$$A, p, r$$}
-    \IF{$$p &lt; r$$}
-        \STATE $$q = $$ \CALL{Partition}{$$A, p, r$$}
-        \STATE \CALL{Quicksort}{$$A, p, q - 1$$}
-        \STATE \CALL{Quicksort}{$$A, q + 1, r$$}
-    \ENDIF
-\ENDPROCEDURE
-\PROCEDURE{Partition}{$$A, p, r$$}
-    \STATE $$x = A[r]$$
-    \STATE $$i = p - 1$$
-    \FOR{$$j = p$$ \TO $$r - 1$$}
-        \IF{$$A[j] &lt; x$$}
-            \STATE $$i = i + 1$$
-            \STATE exchange
-            $$A[i]$$ with $$A[j]$$
-        \ENDIF
-        \STATE exchange $$A[i]$$ with $$A[r]$$
-    \ENDFOR
-\ENDPROCEDURE
-\end{algorithmic}
-\end{algorithm}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included pseudo code could look like]]></summary></entry><entry><title type="html">a post with code diff</title><link href="https://jkfx.github.io/blog/2024/code-diff/" rel="alternate" type="text/html" title="a post with code diff"/><published>2024-01-27T19:22:00+00:00</published><updated>2024-01-27T19:22:00+00:00</updated><id>https://jkfx.github.io/blog/2024/code-diff</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/code-diff/"><![CDATA[<p>You can display diff code by using the regular markdown syntax:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">diff
-</span><span class="gh">diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
-</span><span class="gd">--- a/sample.js
-</span><span class="gi">+++ b/sample.js
-</span><span class="p">@@ -1 +1 @@</span>
-<span class="gd">-console.log("Hello World!")
-</span><span class="gi">+console.log("Hello from Diff2Html!")</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <div class="language-diff highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gh">diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
-</span><span class="gd">--- a/sample.js
-</span><span class="gi">+++ b/sample.js
-</span><span class="p">@@ -1 +1 @@</span>
-<span class="gd">-console.log("Hello World!")
-</span><span class="gi">+console.log("Hello from Diff2Html!")
-</span></code></pre></div></div> <p>But this is difficult to read, specially if you have a large diff. You can use <a href="https://diff2html.xyz/">diff2html</a> to display a more readable version of the diff. For this, just use <code class="language-plaintext highlighter-rouge">diff2html</code> instead of <code class="language-plaintext highlighter-rouge">diff</code> for the code block language:</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">diff2html
-</span><span class="sb">diff --git a/sample.js b/sample.js
-index 0000001..0ddf2ba
---- a/sample.js
-+++ b/sample.js
-@@ -1 +1 @@
--console.log("Hello World!")
-+console.log("Hello from Diff2Html!")</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>If we use a longer example, for example <a href="https://github.com/rtfpessoa/diff2html/commit/c2c253d3e3f8b8b267f551e659f72b44ca2ac927">this commit from diff2html</a>, it will generate the following output:</p> <pre><code class="language-diff2html">From 2aaae31cc2a37bfff83430c2c914b140bee59b6a Mon Sep 17 00:00:00 2001
-From: Rodrigo Fernandes &lt;rtfrodrigo@gmail.com&gt;
-Date: Sun, 9 Oct 2016 16:41:54 +0100
-Subject: [PATCH 1/2] Initial template override support
-
----
- scripts/hulk.js                    |  4 ++--
- src/diff2html.js                   |  3 +--
- src/file-list-printer.js           | 11 ++++++++---
- src/hoganjs-utils.js               | 29 +++++++++++++++++------------
- src/html-printer.js                |  6 ++++++
- src/line-by-line-printer.js        |  6 +++++-
- src/side-by-side-printer.js        |  6 +++++-
- test/file-list-printer-tests.js    |  2 +-
- test/hogan-cache-tests.js          | 18 +++++++++++++++---
- test/line-by-line-tests.js         |  3 +--
- test/side-by-side-printer-tests.js |  3 +--
- 11 files changed, 62 insertions(+), 29 deletions(-)
-
-diff --git a/scripts/hulk.js b/scripts/hulk.js
-index 5a793c18..a4b1a4d5 100755
---- a/scripts/hulk.js
-+++ b/scripts/hulk.js
-@@ -173,11 +173,11 @@ function namespace(name) {
- // write a template foreach file that matches template extension
- templates = extractFiles(options.argv.remain)
-   .map(function(file) {
--    var openedFile = fs.readFileSync(file, 'utf-8');
-+    var openedFile = fs.readFileSync(file, 'utf-8').trim();
-     var name;
-     if (!openedFile) return;
-     name = namespace(path.basename(file).replace(/\..*$/, ''));
--    openedFile = removeByteOrderMark(openedFile.trim());
-+    openedFile = removeByteOrderMark(openedFile);
-     openedFile = wrap(file, name, openedFile);
-     if (!options.outputdir) return openedFile;
-     fs.writeFileSync(path.join(options.outputdir, name + '.js')
-diff --git a/src/diff2html.js b/src/diff2html.js
-index 21b0119e..64e138f5 100644
---- a/src/diff2html.js
-+++ b/src/diff2html.js
-@@ -7,7 +7,6 @@
-
- (function() {
-   var diffParser = require('./diff-parser.js').DiffParser;
--  var fileLister = require('./file-list-printer.js').FileListPrinter;
-   var htmlPrinter = require('./html-printer.js').HtmlPrinter;
-
-   function Diff2Html() {
-@@ -43,7 +42,7 @@
-
-     var fileList = '';
-     if (configOrEmpty.showFiles === true) {
--      fileList = fileLister.generateFileList(diffJson, configOrEmpty);
-+      fileList = htmlPrinter.generateFileListSummary(diffJson, configOrEmpty);
-     }
-
-     var diffOutput = '';
-diff --git a/src/file-list-printer.js b/src/file-list-printer.js
-index e408d9b2..1e0a2c61 100644
---- a/src/file-list-printer.js
-+++ b/src/file-list-printer.js
-@@ -8,11 +8,16 @@
- (function() {
-   var printerUtils = require('./printer-utils.js').PrinterUtils;
-
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var baseTemplatesPath = 'file-summary';
-   var iconsBaseTemplatesPath = 'icon';
-
--  function FileListPrinter() {
-+  function FileListPrinter(config) {
-+    this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
-
-   FileListPrinter.prototype.generateFileList = function(diffFiles) {
-@@ -38,5 +43,5 @@
-     });
-   };
-
--  module.exports.FileListPrinter = new FileListPrinter();
-+  module.exports.FileListPrinter = FileListPrinter;
- })();
-diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
-index 9949e5fa..0dda08d7 100644
---- a/src/hoganjs-utils.js
-+++ b/src/hoganjs-utils.js
-@@ -8,18 +8,19 @@
- (function() {
-   var fs = require('fs');
-   var path = require('path');
--
-   var hogan = require('hogan.js');
-
-   var hoganTemplates = require('./templates/diff2html-templates.js');
-
--  var templatesPath = path.resolve(__dirname, 'templates');
-+  var extraTemplates;
-
--  function HoganJsUtils() {
-+  function HoganJsUtils(configuration) {
-+    this.config = configuration || {};
-+    extraTemplates = this.config.templates || {};
-   }
-
--  HoganJsUtils.prototype.render = function(namespace, view, params, configuration) {
--    var template = this.template(namespace, view, configuration);
-+  HoganJsUtils.prototype.render = function(namespace, view, params) {
-+    var template = this.template(namespace, view);
-     if (template) {
-       return template.render(params);
-     }
-@@ -27,17 +28,16 @@
-     return null;
-   };
-
--  HoganJsUtils.prototype.template = function(namespace, view, configuration) {
--    var config = configuration || {};
-+  HoganJsUtils.prototype.template = function(namespace, view) {
-     var templateKey = this._templateKey(namespace, view);
-
--    return this._getTemplate(templateKey, config);
-+    return this._getTemplate(templateKey);
-   };
-
--  HoganJsUtils.prototype._getTemplate = function(templateKey, config) {
-+  HoganJsUtils.prototype._getTemplate = function(templateKey) {
-     var template;
-
--    if (!config.noCache) {
-+    if (!this.config.noCache) {
-       template = this._readFromCache(templateKey);
-     }
-
-@@ -53,6 +53,7 @@
-
-     try {
-       if (fs.readFileSync) {
-+        var templatesPath = path.resolve(__dirname, 'templates');
-         var templatePath = path.join(templatesPath, templateKey);
-         var templateContent = fs.readFileSync(templatePath + '.mustache', 'utf8');
-         template = hogan.compile(templateContent);
-@@ -66,12 +67,16 @@
-   };
-
-   HoganJsUtils.prototype._readFromCache = function(templateKey) {
--    return hoganTemplates[templateKey];
-+    return extraTemplates[templateKey] || hoganTemplates[templateKey];
-   };
-
-   HoganJsUtils.prototype._templateKey = function(namespace, view) {
-     return namespace + '-' + view;
-   };
-
--  module.exports.HoganJsUtils = new HoganJsUtils();
-+  HoganJsUtils.prototype.compile = function(templateStr) {
-+    return hogan.compile(templateStr);
-+  };
-+
-+  module.exports.HoganJsUtils = HoganJsUtils;
- })();
-diff --git a/src/html-printer.js b/src/html-printer.js
-index 585d5b66..13f83047 100644
---- a/src/html-printer.js
-+++ b/src/html-printer.js
-@@ -8,6 +8,7 @@
- (function() {
-   var LineByLinePrinter = require('./line-by-line-printer.js').LineByLinePrinter;
-   var SideBySidePrinter = require('./side-by-side-printer.js').SideBySidePrinter;
-+  var FileListPrinter = require('./file-list-printer.js').FileListPrinter;
-
-   function HtmlPrinter() {
-   }
-@@ -22,5 +23,10 @@
-     return sideBySidePrinter.generateSideBySideJsonHtml(diffFiles);
-   };
-
-+  HtmlPrinter.prototype.generateFileListSummary = function(diffJson, config) {
-+    var fileListPrinter = new FileListPrinter(config);
-+    return fileListPrinter.generateFileList(diffJson);
-+  };
-+
-   module.exports.HtmlPrinter = new HtmlPrinter();
- })();
-diff --git a/src/line-by-line-printer.js b/src/line-by-line-printer.js
-index b07eb53c..d230bedd 100644
---- a/src/line-by-line-printer.js
-+++ b/src/line-by-line-printer.js
-@@ -11,7 +11,8 @@
-   var utils = require('./utils.js').Utils;
-   var Rematch = require('./rematch.js').Rematch;
-
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var genericTemplatesPath = 'generic';
-   var baseTemplatesPath = 'line-by-line';
-   var iconsBaseTemplatesPath = 'icon';
-@@ -19,6 +20,9 @@
-
-   function LineByLinePrinter(config) {
-     this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
-
-   LineByLinePrinter.prototype.makeFileDiffHtml = function(file, diffs) {
-diff --git a/src/side-by-side-printer.js b/src/side-by-side-printer.js
-index bbf1dc8d..5e3033b3 100644
---- a/src/side-by-side-printer.js
-+++ b/src/side-by-side-printer.js
-@@ -11,7 +11,8 @@
-   var utils = require('./utils.js').Utils;
-   var Rematch = require('./rematch.js').Rematch;
-
--  var hoganUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+  var hoganUtils;
-+
-   var genericTemplatesPath = 'generic';
-   var baseTemplatesPath = 'side-by-side';
-   var iconsBaseTemplatesPath = 'icon';
-@@ -26,6 +27,9 @@
-
-   function SideBySidePrinter(config) {
-     this.config = config;
-+
-+    var HoganJsUtils = require('./hoganjs-utils.js').HoganJsUtils;
-+    hoganUtils = new HoganJsUtils(config);
-   }
-
-   SideBySidePrinter.prototype.makeDiffHtml = function(file, diffs) {
-diff --git a/test/file-list-printer-tests.js b/test/file-list-printer-tests.js
-index a502a46f..60ea3208 100644
---- a/test/file-list-printer-tests.js
-+++ b/test/file-list-printer-tests.js
-@@ -1,6 +1,6 @@
- var assert = require('assert');
-
--var fileListPrinter = require('../src/file-list-printer.js').FileListPrinter;
-+var fileListPrinter = new (require('../src/file-list-printer.js').FileListPrinter)();
-
- describe('FileListPrinter', function() {
-   describe('generateFileList', function() {
-diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
-index 190bf6f8..3bb754ac 100644
---- a/test/hogan-cache-tests.js
-+++ b/test/hogan-cache-tests.js
-@@ -1,6 +1,6 @@
- var assert = require('assert');
-
--var HoganJsUtils = require('../src/hoganjs-utils.js').HoganJsUtils;
-+var HoganJsUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)();
- var diffParser = require('../src/diff-parser.js').DiffParser;
-
- describe('HoganJsUtils', function() {
-@@ -21,16 +21,28 @@ describe('HoganJsUtils', function() {
-       });
-       assert.equal(emptyDiffHtml, result);
-     });
-+
-     it('should render view without cache', function() {
-       var result = HoganJsUtils.render('generic', 'empty-diff', {
-         contentClass: 'd2h-code-line',
-         diffParser: diffParser
-       }, {noCache: true});
--      assert.equal(emptyDiffHtml + '\n', result);
-+      assert.equal(emptyDiffHtml, result);
-     });
-+
-     it('should return null if template is missing', function() {
--      var result = HoganJsUtils.render('generic', 'missing-template', {}, {noCache: true});
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)({noCache: true});
-+      var result = hoganUtils.render('generic', 'missing-template', {});
-       assert.equal(null, result);
-     });
-+
-+    it('should allow templates to be overridden', function() {
-+      var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-+
-+      var config = {templates: {'generic-empty-diff': emptyDiffTemplate}};
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-   });
- });
-diff --git a/test/line-by-line-tests.js b/test/line-by-line-tests.js
-index 1cd92073..8869b3df 100644
---- a/test/line-by-line-tests.js
-+++ b/test/line-by-line-tests.js
-@@ -14,7 +14,7 @@ describe('LineByLinePrinter', function() {
-         '            File without changes\n' +
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
--        '&lt;/tr&gt;\n';
-+        '&lt;/tr&gt;';
-
-       assert.equal(expected, fileHtml);
-     });
-@@ -422,7 +422,6 @@ describe('LineByLinePrinter', function() {
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
-         '&lt;/tr&gt;\n' +
--        '\n' +
-         '                &lt;/tbody&gt;\n' +
-         '            &lt;/table&gt;\n' +
-         '        &lt;/div&gt;\n' +
-diff --git a/test/side-by-side-printer-tests.js b/test/side-by-side-printer-tests.js
-index 76625f8e..771daaa5 100644
---- a/test/side-by-side-printer-tests.js
-+++ b/test/side-by-side-printer-tests.js
-@@ -14,7 +14,7 @@ describe('SideBySidePrinter', function() {
-         '            File without changes\n' +
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
--        '&lt;/tr&gt;\n';
-+        '&lt;/tr&gt;';
-
-       assert.equal(expectedRight, fileHtml.right);
-       assert.equal(expectedLeft, fileHtml.left);
-@@ -324,7 +324,6 @@ describe('SideBySidePrinter', function() {
-         '        &lt;/div&gt;\n' +
-         '    &lt;/td&gt;\n' +
-         '&lt;/tr&gt;\n' +
--        '\n' +
-         '                    &lt;/tbody&gt;\n' +
-         '                &lt;/table&gt;\n' +
-         '            &lt;/div&gt;\n' +
-
-From f3cadb96677d0eb82fc2752dc3ffbf35ca9b5bdb Mon Sep 17 00:00:00 2001
-From: Rodrigo Fernandes &lt;rtfrodrigo@gmail.com&gt;
-Date: Sat, 15 Oct 2016 13:21:22 +0100
-Subject: [PATCH 2/2] Allow uncompiled templates
-
----
- README.md                 |  3 +++
- src/hoganjs-utils.js      |  7 +++++++
- test/hogan-cache-tests.js | 24 +++++++++++++++++++++++-
- 3 files changed, 33 insertions(+), 1 deletion(-)
-
-diff --git a/README.md b/README.md
-index 132c8a28..46909f25 100644
---- a/README.md
-+++ b/README.md
-@@ -98,6 +98,9 @@ The HTML output accepts a Javascript object with configuration. Possible options
-   - `synchronisedScroll`: scroll both panes in side-by-side mode: `true` or `false`, default is `false`
-   - `matchWordsThreshold`: similarity threshold for word matching, default is 0.25
-   - `matchingMaxComparisons`: perform at most this much comparisons for line matching a block of changes, default is `2500`
-+  - `templates`: object with previously compiled templates to replace parts of the html
-+  - `rawTemplates`: object with raw not compiled templates to replace parts of the html
-+  &gt; For more information regarding the possible templates look into [src/templates](https://github.com/rtfpessoa/diff2html/tree/master/src/templates)
-
- ## Diff2HtmlUI Helper
-
-diff --git a/src/hoganjs-utils.js b/src/hoganjs-utils.js
-index 0dda08d7..b2e9c275 100644
---- a/src/hoganjs-utils.js
-+++ b/src/hoganjs-utils.js
-@@ -17,6 +17,13 @@
-   function HoganJsUtils(configuration) {
-     this.config = configuration || {};
-     extraTemplates = this.config.templates || {};
-+
-+    var rawTemplates = this.config.rawTemplates || {};
-+    for (var templateName in rawTemplates) {
-+      if (rawTemplates.hasOwnProperty(templateName)) {
-+        if (!extraTemplates[templateName]) extraTemplates[templateName] = this.compile(rawTemplates[templateName]);
-+      }
-+    }
-   }
-
-   HoganJsUtils.prototype.render = function(namespace, view, params) {
-diff --git a/test/hogan-cache-tests.js b/test/hogan-cache-tests.js
-index 3bb754ac..a34839c0 100644
---- a/test/hogan-cache-tests.js
-+++ b/test/hogan-cache-tests.js
-@@ -36,7 +36,7 @@ describe('HoganJsUtils', function() {
-       assert.equal(null, result);
-     });
-
--    it('should allow templates to be overridden', function() {
-+    it('should allow templates to be overridden with compiled templates', function() {
-       var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-
-       var config = {templates: {'generic-empty-diff': emptyDiffTemplate}};
-@@ -44,5 +44,27 @@ describe('HoganJsUtils', function() {
-       var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-       assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-     });
-+
-+    it('should allow templates to be overridden with uncompiled templates', function() {
-+      var emptyDiffTemplate = '&lt;p&gt;&lt;/p&gt;';
-+
-+      var config = {rawTemplates: {'generic-empty-diff': emptyDiffTemplate}};
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-+
-+    it('should allow templates to be overridden giving priority to compiled templates', function() {
-+      var emptyDiffTemplate = HoganJsUtils.compile('&lt;p&gt;&lt;/p&gt;');
-+      var emptyDiffTemplateUncompiled = '&lt;p&gt;Not used!&lt;/p&gt;';
-+
-+      var config = {
-+        templates: {'generic-empty-diff': emptyDiffTemplate},
-+        rawTemplates: {'generic-empty-diff': emptyDiffTemplateUncompiled}
-+      };
-+      var hoganUtils = new (require('../src/hoganjs-utils.js').HoganJsUtils)(config);
-+      var result = hoganUtils.render('generic', 'empty-diff', {myName: 'Rodrigo Fernandes'});
-+      assert.equal('&lt;p&gt;Rodrigo Fernandes&lt;/p&gt;', result);
-+    });
-   });
- });
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is how you can display code diffs]]></summary></entry><entry><title type="html">a post with advanced image components</title><link href="https://jkfx.github.io/blog/2024/advanced-images/" rel="alternate" type="text/html" title="a post with advanced image components"/><published>2024-01-27T11:46:00+00:00</published><updated>2024-01-27T11:46:00+00:00</updated><id>https://jkfx.github.io/blog/2024/advanced-images</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/advanced-images/"><![CDATA[<p>This is an example post with advanced image components.</p> <h2 id="image-slider">Image Slider</h2> <p>This is a simple image slider. It uses the <a href="https://swiperjs.com/">Swiper</a> library. Check the <a href="https://swiperjs.com/demos">examples page</a> for more information of what you can achieve with it.</p> <swiper-container keyboard="true" navigation="true" pagination="true" pagination-clickable="true" pagination-dynamic-bullets="true" rewind="true"> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/9-480.webp 480w,/assets/img/9-800.webp 800w,/assets/img/9-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/9.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/7-480.webp 480w,/assets/img/7-800.webp 800w,/assets/img/7-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/7.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/8-480.webp 480w,/assets/img/8-800.webp 800w,/assets/img/8-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/8.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/10-480.webp 480w,/assets/img/10-800.webp 800w,/assets/img/10-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/10.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> <swiper-slide> <figure> <picture> <source class="responsive-img-srcset" srcset="/assets/img/12-480.webp 480w,/assets/img/12-800.webp 800w,/assets/img/12-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/12.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </swiper-slide> </swiper-container> <h2 id="image-comparison-slider">Image Comparison Slider</h2> <p>This is a simple image comparison slider. It uses the <a href="https://img-comparison-slider.sneas.io/">img-comparison-slider</a> library. Check the <a href="https://img-comparison-slider.sneas.io/examples.html">examples page</a> for more information of what you can achieve with it.</p> <img-comparison-slider> <figure slot="first"> <picture> <source class="responsive-img-srcset" srcset="/assets/img/prof_pic-480.webp 480w,/assets/img/prof_pic-800.webp 800w,/assets/img/prof_pic-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/prof_pic.jpg" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> <figure slot="second"> <picture> <source class="responsive-img-srcset" srcset="/assets/img/prof_pic_color-480.webp 480w,/assets/img/prof_pic_color-800.webp 800w,/assets/img/prof_pic_color-1400.webp 1400w," type="image/webp" sizes="95vw"/> <img src="/assets/img/prof_pic_color.png" class="img-fluid rounded z-depth-1" width="100%" height="auto" loading="lazy" onerror="this.onerror=null; $('.responsive-img-srcset').remove();"/> </picture> </figure> </img-comparison-slider>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="images"/><summary type="html"><![CDATA[this is what advanced image components could look like]]></summary></entry><entry><title type="html">a post with vega lite</title><link href="https://jkfx.github.io/blog/2024/vega-lite/" rel="alternate" type="text/html" title="a post with vega lite"/><published>2024-01-27T00:20:00+00:00</published><updated>2024-01-27T00:20:00+00:00</updated><id>https://jkfx.github.io/blog/2024/vega-lite</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/vega-lite/"><![CDATA[<p>This is an example post with some <a href="https://vega.github.io/vega-lite/">vega lite</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">vega_lite
-</span><span class="sb">{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-vega_lite">{
-  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "description": "A dot plot showing each movie in the database, and the difference from the average movie rating. The display is sorted by year to visualize everything in sequential order. The graph is for all Movies before 2019.",
-  "data": {
-    "url": "https://raw.githubusercontent.com/vega/vega/main/docs/data/movies.json"
-  },
-  "transform": [
-    {"filter": "datum['IMDB Rating'] != null"},
-    {"filter": {"timeUnit": "year", "field": "Release Date", "range": [null, 2019]}},
-    {
-      "joinaggregate": [{
-        "op": "mean",
-        "field": "IMDB Rating",
-        "as": "AverageRating"
-      }]
-    },
-    {
-      "calculate": "datum['IMDB Rating'] - datum.AverageRating",
-      "as": "RatingDelta"
-    }
-  ],
-  "mark": "point",
-  "encoding": {
-    "x": {
-      "field": "Release Date",
-      "type": "temporal"
-    },
-    "y": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "title": "Rating Delta"
-    },
-    "color": {
-      "field": "RatingDelta",
-      "type": "quantitative",
-      "scale": {"domainMid": 0},
-      "title": "Rating Delta"
-    }
-  }
-}
-</code></pre> <p>This plot supports both light and dark themes.</p>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><summary type="html"><![CDATA[this is what included vega lite code could look like]]></summary></entry><entry><title type="html">a post with geojson</title><link href="https://jkfx.github.io/blog/2024/geojson-map/" rel="alternate" type="text/html" title="a post with geojson"/><published>2024-01-26T17:57:00+00:00</published><updated>2024-01-26T17:57:00+00:00</updated><id>https://jkfx.github.io/blog/2024/geojson-map</id><content type="html" xml:base="https://jkfx.github.io/blog/2024/geojson-map/"><![CDATA[<p>This is an example post with some <a href="https://geojson.org/">geojson</a> code. The support is provided thanks to <a href="https://leafletjs.com/">Leaflet</a>. To create your own visualization, go to <a href="https://geojson.io/">geojson.io</a>.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">geojson
-</span><span class="sb">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}</span>
-<span class="p">```</span>
-</code></pre></div></div> <p>Which generates:</p> <pre><code class="language-geojson">{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -3.162613728707967
-            ],
-            [
-              -59.820894493858034,
-              -2.904625022183211
-            ],
-            [
-              -60.11363029935569,
-              -2.904625022183211
-            ]
-          ]
-        ],
-        "type": "Polygon"
-      }
-    }
-  ]
-}
-</code></pre>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="charts"/><category term="maps"/><summary type="html"><![CDATA[this is what included geojson code could look like]]></summary></entry></feed>
+<span class="nf">for </span><span class="p">(</span><span class="n">k</span><span class="p">,</span> <span class="n">v</span><span class="p">)</span> <span class="ow">in</span> <span class="n">m</span><span class="p">.</span><span class="nf">items</span><span class="p">():</span>
+    <span class="n">os</span><span class="p">.</span><span class="nf">mkdir</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+    <span class="n">os</span><span class="p">.</span><span class="nf">chdir</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+    <span class="n">os</span><span class="p">.</span><span class="nf">system</span><span class="p">(</span><span class="sh">'</span><span class="s">youtube-dl --write-sub --sub-lang en -f </span><span class="sh">"</span><span class="s">bestvideo+bestaudio</span><span class="sh">"</span><span class="s"> -o </span><span class="sh">"</span><span class="s">%(title)s.%(ext)s</span><span class="sh">"</span><span class="s"> </span><span class="sh">'</span> <span class="o">+</span> <span class="n">v</span><span class="p">)</span>
+    <span class="n">os</span><span class="p">.</span><span class="nf">system</span><span class="p">(</span><span class="sh">'</span><span class="s">youtube-dl --write-auto-sub --sub-lang zh-Hans --skip-download -o </span><span class="sh">"</span><span class="s">%(title)s.%(ext)s</span><span class="sh">"</span><span class="s"> </span><span class="sh">'</span> <span class="o">+</span> <span class="n">v</span><span class="p">)</span>
+    <span class="n">os</span><span class="p">.</span><span class="nf">chdir</span><span class="p">(</span><span class="sh">"</span><span class="s">../</span><span class="sh">"</span><span class="p">)</span>
+</code></pre></div></div> <p>将代码中字典变量的<em>key</em>和<em>value</em>替换成你需要的下载链接，将其保存到<code class="language-plaintext highlighter-rouge">.py</code>文件格式后，执行<code class="language-plaintext highlighter-rouge">python 文件名.py</code>便可进行下载。</p> <h2 id="效果展示">效果展示</h2> <p>如果你的梯子网速给力的话，下载速度还是非常可观的。</p> <p><img src="//tvax2.sinaimg.cn/large/006VTcCxgy1gsolqbnjbzj31ta0zhgwg.jpg" alt="image"/></p> <p><img src="//tva3.sinaimg.cn/large/006VTcCxgy1gsolomow99j31z4168kjl.jpg" alt="image"/></p>]]></content><author><name></name></author><summary type="html"><![CDATA[所需工具]]></summary></entry><entry><title type="html">关于 RNN 循环神经网络的反向传播求导</title><link href="https://jkfx.github.io/blog/2021/%E5%85%B3%E4%BA%8E-RNN-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%B1%82%E5%AF%BC/" rel="alternate" type="text/html" title="关于 RNN 循环神经网络的反向传播求导"/><published>2021-01-11T20:19:00+00:00</published><updated>2021-01-11T20:19:00+00:00</updated><id>https://jkfx.github.io/blog/2021/%E5%85%B3%E4%BA%8E%20RNN%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%B1%82%E5%AF%BC</id><content type="html" xml:base="https://jkfx.github.io/blog/2021/%E5%85%B3%E4%BA%8E-RNN-%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E7%9A%84%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%B1%82%E5%AF%BC/"><![CDATA[ <p>本文是对 RNN 循环神经网络中的每一个神经元进行反向传播求导的数学推导过程，下面还使用 <code class="language-plaintext highlighter-rouge">PyTorch</code> 对导数公式进行编程求证。</p> <h2 id="rnn-神经网络架构">RNN 神经网络架构</h2> <p>一个普通的 RNN 神经网络如下图所示：</p> <p><img src="https://tvax1.sinaimg.cn/large/006VTcCxly1gmfae8mswmj317a0e00u2.jpg" alt="图片1"/></p> <p>其中 \(x^{\langle t \rangle}\) 表示某一个输入数据在 \(t\) 时刻的输入；\(a^{\langle t \rangle}\) 表示神经网络在 \(t\) 时刻时的<em>hidden state</em>，也就是要传送到 \(t+1\) 时刻的值；\(y^{\langle t \rangle}\) 则表示在第 \(t\) 时刻输入数据传入以后产生的预测值，在进行预测或 <em>sampling</em> 时 \(y^{\langle t \rangle}\) 通常作为下一时刻即 \(t+1\) 时刻的输入，也就是说 \(x^{\langle t \rangle}=\hat{y}^{\langle t \rangle}\) ；下面对数据的维度进行说明。</p> <ul> <li>输入： \(x\in\mathbb{R}^{n_x\times m\times T_x}\) 其中 \(n_x\) 表示每一个时刻输入向量的长度；\(m\) 表示数据批量数（<em>batch</em>）；\(T_x\) 表示共有多少个输入的时刻（<em>time step</em>）。</li> <li>hidden state：\(a\in\mathbb{R}^{n_a\times m\times T_x}\) 其中 \(n_a\) 表示每一个 <em>hidden state</em> 的长度。</li> <li>预测：\(y\in\mathbb{R}^{n_y\times m\times T_y}\) 其中 \(n_y\) 表示预测输出的长度；\(T_y\) 表示共有多少个输出的时刻（<em>time step</em>）。</li> </ul> <h2 id="rnn-神经元">RNN 神经元</h2> <p>下图所示的是一个特定的 RNN 神经元：</p> <p><img src="https://tvax2.sinaimg.cn/large/006VTcCxly1gmfaesc2joj30z20didhj.jpg" alt="图片2"/></p> <p>上图说明了在第 \(t\) 时刻的神经元中，数据的输入 \(x^{\langle t \rangle}\) 和上一层的 <em>hidden state</em> \(a^{\langle t \rangle}\) 是如何经过计算得到下一层的 <em>hidden state</em> 和预测输出 \(\hat{y}^{\langle t \rangle}\) 。</p> <p>下面是对五个参数的维度说明：</p> <ul> <li> \[W_{aa}\in\mathbb{R}^{n_a\times n_a}\] </li> <li> \[W_{ax}\in\mathbb{R}^{n_a\times n_x}\] </li> <li> \[b_a\in\mathbb{R}^{n_a\times 1}\] </li> <li> \[W_{ya}\in\mathbb{R}^{n_y\times n_a}\] </li> <li> \[b_y\in\mathbb{R}^{n_y\times 1}\] </li> </ul> <p>计算 \(t\) 时刻的 <em>hidden state</em> \(a^{\langle t \rangle}\) ：</p> \[\begin{split} z1^{\langle t \rangle} &amp;= W_{aa} a^{\langle t-1 \rangle} + W_{ax} x^{\langle t \rangle} + b_a\\ a^{\langle t \rangle} &amp;= \tanh(z1^{\langle t \rangle}) \end{split}\] <p>预测 \(t\) 时刻的输出 \(\hat{y}^{\langle t \rangle}\) ：</p> \[\begin{split} z2^{\langle t \rangle} &amp;= W_{ya} a^{\langle t \rangle} + b_y\\ \hat{y}^{\langle t \rangle} &amp;= softmax(z2^{\langle t \rangle}) = \frac{e^{z2^{\langle t \rangle}}}{\sum_{i=1}^{n_y}e^{z2_i^{\langle t \rangle}}} \end{split}\] <h2 id="rnn-循环神经网络反向传播">RNN 循环神经网络反向传播</h2> <p>在当今流行的深度学习编程框架中，我们只需要编写一个神经网络的结构和负责神经网络的前向传播，至于反向传播的求导和参数更新，完全由框架搞定；即便如此，我们在学习阶段也要自己动手证明一下反向传播的有效性。</p> <h3 id="rnn-神经元的反向传播">RNN 神经元的反向传播</h3> <p>下图是 RNN 神经网络中的一个基本的神经元，图中标注了反向传播所需传来的参数和输出等。</p> <p><img src="https://tva4.sinaimg.cn/large/006VTcCxly1gmfagctqx4j30qu0e9t96.jpg" alt="图片3"/></p> <p>就如一个全连接的神经网络一样，损失函数 \(J\) 的导数通过微积分的链式法则（<em>chain rule</em>）反向传播到每一个时间轴上。</p> <p>为了方便，我们将损失函数关于神经元中参数的偏导符号简记为 \(\mathrm{d}\mathit{parameters}\) ；例如将 \(\frac{\partial J}{\partial W_{ax}}\) 记为 \(\mathrm{d}W_{ax}\) 。</p> <p><img src="https://tva4.sinaimg.cn/large/006VTcCxly1gmfagmbbw5j30zk0k0ta2.jpg" alt="图片4"/></p> <p>上图的反向传播的实现并没有包括全连接层和 <em>Softmax</em> 层。</p> <h3 id="反向传播求导">反向传播求导</h3> <p>计算损失函数关于各个参数的偏导数之前，我们先引入一个计算图（<em>computation graph</em>），其演示了一个 RNN 神经元的前向传播和如何利用计算图进行链式法则的反向求导。</p> <p><img src="https://tva1.sinaimg.cn/large/006VTcCxly1gmiwwe017fj31ia0j1go0.jpg" alt="image"/></p> <p>因为当进行反向传播求导时，我们需要将整个时间轴的输入全部输入之后，才可以从最后一个时刻开始往前传进行反向传播，所以我们假设 \(t\) 时刻就为最后一个时刻 \(T_x\) 。</p> <p>如果我们想要先计算 \(\frac{\partial\ell}{\partial W_{ax}}\) 所以我们可以从计算图中看到，反向传播的路径：</p> <p><img src="https://tva1.sinaimg.cn/large/006VTcCxly1gmiwutfx3gj31ig0j1mzn.jpg" alt="image"/></p> <p>我们需要按部就班的分别对从 \(W_{ax}\) 计算到 \(\ell\) 一路相关的变量进行求偏导，利用链式法则，将红色路线上一路的偏导数相乘到一起，就可以求出偏导数 \(\frac{\partial\ell}{\partial W_{ax}}\) ；所以我们得到：</p> \[\begin{split} \frac{\partial\ell}{\partial W_{ax}} &amp;= \frac{\partial\ell}{\partial\ell^{\langle t\rangle}} {\color{Red}{ \frac{\partial\ell^{\langle t\rangle}}{\partial\hat{y}^{\langle t\rangle}} \frac{\partial\hat{y}^{\langle t\rangle}}{\partial z2^{\langle t\rangle}} }} \frac{\partial z2^{\langle t\rangle}}{\partial a^{\langle t\rangle}} \frac{\partial a^{\langle t\rangle}}{\partial z1^{\langle t\rangle}} \frac{\partial z1^{\langle t\rangle}}{\partial W_{ax}} \end{split}\] <p>在上面的公式中，我们仅需要分别求出每一个偏导即可，其中红色的部分就是关于 \(\mathrm{Softmax}\) 的求导，关于 \(\mathrm{Softmax}\) 求导的推导过程，可以看本人的另一篇博客： <a href="/blog/2020/%E5%85%B3%E4%BA%8E-Softmax-%E5%9B%9E%E5%BD%92%E7%9A%84%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%B1%82%E5%AF%BC%E6%95%B0%E8%BF%87%E7%A8%8B/">关于 Softmax 回归的反向传播求导数过程</a></p> <p>关于 \(\mathrm{tanh}\) 的求导公式如下：</p> \[\frac{\partial \tanh(x)} {\partial x} = 1 - \tanh^2(x)\] <p>所以上面的式子就得到：</p> \[\begin{split} \frac{\partial\ell}{\partial W_{ax}} &amp;= \frac{\partial\ell}{\partial\ell^{\langle t\rangle}} {\color{Red}{ \frac{\partial\ell^{\langle t\rangle}}{\partial\hat{y}^{\langle t\rangle}} \frac{\partial\hat{y}^{\langle t\rangle}}{\partial z2^{\langle t\rangle}} }} \frac{\partial z2^{\langle t\rangle}}{\partial a^{\langle t\rangle}} \frac{\partial a^{\langle t\rangle}}{\partial z1^{\langle t\rangle}} \frac{\partial z1^{\langle t\rangle}}{\partial W_{ax}}\\ &amp;= {\color{Red}{ (\hat{y}^{\langle t\rangle}-y^{\langle t\rangle}) }} W_{ya} (1-\tanh^2(z1^{\langle t\rangle})) x^{\langle t\rangle} \end{split}\] <p>我们就可以得到在最后时刻 \(t\) 参数 \(W_{ax}\) 的偏导数。</p> <blockquote> <p>关于上面式子中的偏导数的计算，除了标量对矩阵的求导，在后面还包括了两个一个矩阵或向量对另一个矩阵或向量中的求导，实际上这是非常麻烦的一件事。</p> <p>比如在计算 \(\frac{\partial z1^{\langle t\rangle}}{\partial W_{ax}}\) 偏导数的时候，我们发现 \(z1^{\langle t\rangle}\) 是一个 \(\mathbb{R}^{n_a\times m}\) 的矩阵，而 \(W_{ax}\) 则是一个 \(\mathbb{R}^{n_a\times n_x}\) 的矩阵，这一项就是一个矩阵对另一个矩阵求偏导，如果直接对其求导我们将会得到一个四维的矩阵 \(\mathbb{R}^{n_a\times n_x\times n_a\times m}\) （<em>雅可比矩阵 Jacobian matrix</em>）；只不过这个高维矩阵中偏导数的值有很多 \(0\) 。</p> <p>在神经网络中，如果直接将这个高维矩阵直接生搬硬套进梯度下降里更新参数是不可行，因为我们需要得到的梯度是关于自变量同型的向量或矩阵而且我们还要处理更高维度的矩阵的乘法；所以我们需要将结果进行一定的处理得到我们仅仅需要的信息。</p> <p>一般在深度学习框架中都会有自动求梯度的功能包，这些包（比如 <code class="language-plaintext highlighter-rouge">PyTorch</code> ）中就只允许一个标量对向量或矩阵求导，其他情况是不允许的，除非在反向传播的函数里传入一个同型的权重向量或矩阵才可以得到导数。</p> </blockquote> <p>我们先简单求出一个偏导数 \(\frac{\partial\ell}{\partial W_{ax}}\) 我们下面使用 <code class="language-plaintext highlighter-rouge">PyTorch</code> 中的自动求梯度的包进行验证我们的公式是否正确。</p> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="n">torch</span>
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 这是神经网络中的一些架构的参数
+</span><span class="n">n_x</span> <span class="o">=</span> <span class="mi">6</span>
+<span class="n">n_y</span> <span class="o">=</span> <span class="mi">6</span>
+<span class="n">m</span> <span class="o">=</span> <span class="mi">1</span>
+<span class="n">T_x</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">T_y</span> <span class="o">=</span> <span class="mi">5</span>
+<span class="n">n_a</span> <span class="o">=</span> <span class="mi">3</span>
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 定义所有参数矩阵
+# requires_grad 为 True 表明在涉及这个变量的运算时建立计算图
+# 为了之后反向传播求导
+</span><span class="n">W_ax</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_a</span><span class="p">,</span> <span class="n">n_x</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="n">W_aa</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_a</span><span class="p">,</span> <span class="n">n_a</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="n">ba</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_a</span><span class="p">,</span> <span class="mi">1</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="n">W_ya</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_y</span><span class="p">,</span> <span class="n">n_a</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="n">by</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_y</span><span class="p">,</span> <span class="mi">1</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># t 时刻的输入和上一时刻的 hidden state
+</span><span class="n">x_t</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_x</span><span class="p">,</span> <span class="n">m</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="n">a_prev</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_a</span><span class="p">,</span> <span class="n">m</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+<span class="n">y_t</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">randn</span><span class="p">((</span><span class="n">n_y</span><span class="p">,</span> <span class="n">m</span><span class="p">),</span> <span class="n">requires_grad</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 开始模拟一个神经元 t 时刻的前向传播
+# 从输入一直到计算出 loss
+</span><span class="n">z1_t</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">matmul</span><span class="p">(</span><span class="n">W_ax</span><span class="p">,</span> <span class="n">x_t</span><span class="p">)</span> <span class="o">+</span> <span class="n">torch</span><span class="p">.</span><span class="nf">matmul</span><span class="p">(</span><span class="n">W_aa</span><span class="p">,</span> <span class="n">a_prev</span><span class="p">)</span> <span class="o">+</span> <span class="n">ba</span>
+<span class="n">z1_t</span><span class="p">.</span><span class="nf">retain_grad</span><span class="p">()</span>
+<span class="n">a_t</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">tanh</span><span class="p">(</span><span class="n">z1_t</span><span class="p">)</span>
+<span class="n">a_t</span><span class="p">.</span><span class="nf">retain_grad</span><span class="p">()</span>
+<span class="n">z2_t</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">matmul</span><span class="p">(</span><span class="n">W_ya</span><span class="p">,</span> <span class="n">a_t</span><span class="p">)</span> <span class="o">+</span> <span class="n">by</span>
+<span class="n">z2_t</span><span class="p">.</span><span class="nf">retain_grad</span><span class="p">()</span>
+<span class="n">y_hat</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">exp</span><span class="p">(</span><span class="n">z2_t</span><span class="p">)</span> <span class="o">/</span> <span class="n">torch</span><span class="p">.</span><span class="nf">sum</span><span class="p">(</span><span class="n">torch</span><span class="p">.</span><span class="nf">exp</span><span class="p">(</span><span class="n">z2_t</span><span class="p">),</span> <span class="n">dim</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+<span class="n">y_hat</span><span class="p">.</span><span class="nf">retain_grad</span><span class="p">()</span>
+<span class="n">loss_t</span> <span class="o">=</span> <span class="o">-</span><span class="n">torch</span><span class="p">.</span><span class="nf">sum</span><span class="p">(</span><span class="n">y_t</span> <span class="o">*</span> <span class="n">torch</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="n">y_hat</span><span class="p">),</span> <span class="n">dim</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+<span class="n">loss_t</span><span class="p">.</span><span class="nf">retain_grad</span><span class="p">()</span>
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 对最后的 loss 标量开始进行反向传播求导
+</span><span class="n">loss_t</span><span class="p">.</span><span class="nf">backward</span><span class="p">()</span>
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 我们就可以得到 W_ax 的导数
+# 存储在后缀 _autograd 变量中，表明是由框架自动求导得到的
+</span><span class="n">W_ax_autograd</span> <span class="o">=</span> <span class="n">W_ax</span><span class="p">.</span><span class="n">grad</span>
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 查看框架计算得到的导数
+</span><span class="n">W_ax_autograd</span>
+</code></pre></div></div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tensor([[ 0.5252,  1.1938, -0.2352,  1.1571, -1.0168,  0.3195],
+        [-1.0536, -2.3949,  0.4718, -2.3213,  2.0398, -0.6410],
+        [-0.0316, -0.0717,  0.0141, -0.0695,  0.0611, -0.0192]])
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 我们对自己推演出的公式进行手动计算导数
+# 存储在后缀 _manugrad 变量中，表明是手动由公式计算得到的
+</span><span class="n">W_ax_manugrad</span> <span class="o">=</span> <span class="n">torch</span><span class="p">.</span><span class="nf">matmul</span><span class="p">(</span><span class="n">torch</span><span class="p">.</span><span class="nf">matmul</span><span class="p">((</span><span class="n">y_hat</span> <span class="o">-</span> <span class="n">y_t</span><span class="p">).</span><span class="n">T</span><span class="p">,</span> <span class="n">W_ya</span><span class="p">).</span><span class="n">T</span> <span class="o">*</span> <span class="p">(</span><span class="mi">1</span> <span class="o">-</span> <span class="n">torch</span><span class="p">.</span><span class="nf">square</span><span class="p">(</span><span class="n">torch</span><span class="p">.</span><span class="nf">tanh</span><span class="p">(</span><span class="n">z1_t</span><span class="p">))),</span> <span class="n">x_t</span><span class="p">.</span><span class="n">T</span><span class="p">)</span>
+<span class="c1">#torch.matmul(torch.matmul(W_ya.T, y_hat - y_t) * (1 - torch.square(torch.tanh(z1_t))), x_t.T)
+</span></code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 输出手动计算的导数
+</span><span class="n">W_ax_manugrad</span>
+</code></pre></div></div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tensor([[ 0.5195,  1.1809, -0.2327,  1.1447, -1.0058,  0.3161],
+        [-1.0195, -2.3172,  0.4565, -2.2461,  1.9737, -0.6202],
+        [-0.0309, -0.0703,  0.0138, -0.0681,  0.0599, -0.0188]],
+       grad_fn=&lt;MmBackward&gt;)
+</code></pre></div></div> <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># 查看两种求导结果的之差的 L2 范数
+</span><span class="n">torch</span><span class="p">.</span><span class="nf">norm</span><span class="p">(</span><span class="n">W_ax_manugrad</span> <span class="o">-</span> <span class="n">W_ax_autograd</span><span class="p">)</span>
+</code></pre></div></div> <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>tensor(0.1356, grad_fn=&lt;CopyBackwards&gt;)
+</code></pre></div></div> <p>通过上面的编程输出可以看到，我们手动计算的导数和框架自己求出的导数虽然有一定的误差，但是一一对照可以大体看到我们手动求出来的导数大体是对的，并没有说错的非常离谱。</p> <p>但上面只是当 \(t=T_x\) 即 \(t\) 时刻是最后一个输入单元的时候，也就是说所求的关于 \(_W{ax}\) 的导数只是全部导数的一部分，因为参数共享，所以每一时刻的神经元都有对 \(W_{ax}\) 的导数，所以需要将所有时刻的神经元关于 \(W_{ax}\) 的导数全部加起来。</p> <p>若 \(t\) 不是最后一时刻，可能是神经网络里的中间的某一时刻的神经元；也就是说，在进行反向传播的时候，想要求 \(t\) 时刻的导数，就得等到 \(t+1\) 时刻的导数值传进来，然后根据链式法则才可以计算当前时刻参数的导数。</p> <p>下面是一个简易的计算图，只绘制出了 \(W_ax\) 到 \(\ell\) 的计算中，共涉及到哪些变量（在整个神经网络中的 \(W_{ax}\) 的权重参数是共享的）：</p> <p><img src="https://tva2.sinaimg.cn/large/006VTcCxly1gmizn9a86aj318y0t8goe.jpg" alt="image"/></p> <p>下面使用一个视频展示整个神经网络中从 \(W_{ax}\) 到一个数据批量的损失值 \(\ell\) 的大体流向：</p> <p><img src="https://yun.zyxweb.cn/index.php?explorer/share/file&amp;hash=1439457NtxPsb8asnr_vVtY66j-3v_8NDjbXDkWQTo-Tq5zESZQQZxsY&amp;name=forward.mp4" alt="forward.mp4"/></p> <p>计算完 \(\ell\) 之后就可以计算 \(\frac{\partial\ell}{\partial W_{ax}}\) 的导数值，但是 RNN 神经网络的反向传播区别于全连接神经网络的。</p> <p><img src="https://tvax2.sinaimg.cn/large/006VTcCxly1gmj0k2u79mj31980swacc.jpg" alt="image"/></p> <p>然后，我们演示一下如何进行反向传播的，注意看每一个时刻的 \(a^{\langle t\rangle}\) 的计算都是等 \(a^{\langle t+1\rangle}\) 的导数值传进来才进行计算的；同样地，\(W_{ax}\) 导数的计算也不是一步到位的，也是需要等到所有时刻的 \(a\) 的值全部传到才计算完。</p> <p><img src="https://yun.zyxweb.cn/index.php?explorer/share/file&amp;hash=1fc3U3bwTyfi-h40ykZa-0dfBrIcvkwjhXDDD_fGLGyO7xj52MiHSxWa&amp;name=backward.mp4" alt="backward.mp4"/></p> <p>所以对于神经网络中间某一个单元 \(t\) 我们有：</p> \[\begin{split} \frac{\partial\ell}{\partial W_{ax}} &amp;= {\color{Red}{ \left( \frac{\partial\ell}{\partial a^{\langle t\rangle}} +\frac{\partial\ell}{\partial z1^{\langle t+1\rangle}} \frac{\partial z1^{\langle t+1\rangle}}{\partial a^{\langle t\rangle}} \right) }} \frac{\partial a^{\langle t\rangle}}{\partial z1^{\langle t\rangle}} \frac{\partial z1^{\langle t\rangle}}{\partial W_{ax}} \end{split}\] <p>关于红色的部分的意思是需要等到 \(t+1\) 时刻的导数值传进来，然后才可以进行对 \(t+1\) 时刻关于当前时刻 \(t\) 的参数求导，最后得到参数梯度的一个分量。其实若仔细展开每一个偏导项，就像是一个递归一样，每次求某一时刻的导数总是要从最后一时刻往前传到当前时刻才可以进行。</p> <blockquote> <p><strong>多元复合函数的求导法则</strong></p> <p>如果函数 \(u=\varphi(t)\) 及 \(v=\psi(t)\) 都在点 \(t\) 可导，函数 \(z=f(u,v)\) 在对应点 \((u,v)\) 具有连续偏导数，那么复合函数 \(z=f[\varphi(t),\psi(t)]\) 在点 \(t\) 可导，且有 \(\frac{\mathrm{d}z}{\mathrm{d}t}=\frac{\partial z}{\partial u}\frac{\mathrm{d}u}{\mathrm{d}t}+\frac{\partial z}{\partial v}\frac{\mathrm{d}v}{\mathrm{d}t}\)</p> </blockquote> <p>下面使用一张计算图说明 \(a^{\langle t\rangle}\) 到 \(\ell\) 的计算关系。</p> <p><img src="https://tvax4.sinaimg.cn/large/006VTcCxly1gmjsx4kqcqj30w80audg6.jpg" alt="image"/></p> <p>也就是说第 \(t\) 时刻 \(\ell\) 关于 \(a^{\langle t\rangle}\) 的导数是由两部分相加组成，也就是说是由两条路径反向传播，这两条路径分别是 \(\ell\to\ell^{\langle t\rangle}\to\hat{y}^{\langle t\rangle}\to z2^{\langle t\rangle}\to a^{\langle t\rangle}\) 和 \(\ell\to\ell^{\langle t+1\rangle}\to\hat{y}^{\langle t+1\rangle}\to z2^{\langle t+1\rangle}\to a^{\langle t+1\rangle}\to z1^{\langle t+1\rangle}\to a^{\langle t\rangle}\) ，我们将这两条路径导数之和使用 \(\mathrm{d}a_{\mathrm{next}}\) 表示。</p> <p>所以我们可以得到在中间某一时刻的神经单元关于 \(W_{ax}\) 的导数为：</p> \[\frac{\partial\ell}{\partial W_{ax}}=\left(\mathrm{d}a_{\mathrm{next}} * \left( 1-\tanh^2(z1^{\langle t \rangle}\right)\right) x^{\langle t \rangle T}\] <p>通过同样的方法，我们就可以得到其它参数的导数：</p> \[\begin{align} \frac{\partial\ell}{\partial W_{aa}} &amp;= \left(\mathrm{d}a_{\mathrm{next}} * \left( 1-\tanh^2(z1^{\langle t\rangle}) \right)\right) a^{\langle t-1 \rangle T}\\ \frac{\partial\ell}{\partial b_a} &amp; = \sum_{batch}\left( da_{next} * \left( 1-\tanh^2(z1^{\langle t\rangle}) \right)\right)\\ \end{align}\] <p>除了传递参数的导数，在第 \(t\) 时刻还需要传送 \(\ell\) 关于 \(z1^{\langle t\rangle}\) 的导数到 \(t-1\) 时刻，将需要传送到上一时刻的导数记作为 \(\mathrm{d}a_{\mathrm{prev}}\) 我们得到：</p> \[\begin{split} \mathrm{d}a_{\mathrm{prev}} &amp;= \mathrm{d}a_\mathrm{next}\frac{\partial a^{\langle t\rangle}}{\partial z1^{\langle t\rangle}}\frac{\partial z1^{\langle t\rangle}}{\partial a^{\langle t-1\rangle}}\\ &amp;= { W_{aa}}^T\left(\mathrm{d}a_{\mathrm{next}} * \left( 1-\tanh^2(z1^{\langle t\rangle}) \right)\right) \end{split}\] <p>可以看到，一个循环神经网络的反向传播实际上是非常复杂的，因为每一时刻的神经元都与参数有计算关系，所以反向传播时的路径非常杂乱，其中还涉及到了高维的矩阵，所以在计算时需要对高维矩阵进行一定的矩阵代数转换才方便导数和更新参数的计算。</p>]]></content><author><name></name></author><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">向量、矩阵和张量的导数</title><link href="https://jkfx.github.io/blog/2021/%E5%90%91%E9%87%8F-%E7%9F%A9%E9%98%B5%E5%92%8C%E5%BC%A0%E9%87%8F%E7%9A%84%E5%AF%BC%E6%95%B0/" rel="alternate" type="text/html" title="向量、矩阵和张量的导数"/><published>2021-01-09T15:21:00+00:00</published><updated>2021-01-09T15:21:00+00:00</updated><id>https://jkfx.github.io/blog/2021/%E5%90%91%E9%87%8F%E3%80%81%E7%9F%A9%E9%98%B5%E5%92%8C%E5%BC%A0%E9%87%8F%E7%9A%84%E5%AF%BC%E6%95%B0</id><content type="html" xml:base="https://jkfx.github.io/blog/2021/%E5%90%91%E9%87%8F-%E7%9F%A9%E9%98%B5%E5%92%8C%E5%BC%A0%E9%87%8F%E7%9A%84%E5%AF%BC%E6%95%B0/"><![CDATA[<blockquote> <p>[著] Erik Learned-Miller</p> <p>本文翻译自 <a href="https://yun.zyxweb.cn/index.php?explorer/share/file&amp;hash=0280toXjCcyULrEWbPq5CksYBkWZfvAvzlnK7vK7Mp5c5RTZ6L4-iGhf&amp;name=vecDerivs.pdf">Vector, Matrix, and Tensor Derivatives</a></p> <p>本人英语水平有限，文章中有翻译不到位的地方请热心指出并改正！</p> </blockquote> <p>本文的目的是帮助学习向量（vectors）、矩阵（matrices）和更高阶张量（tensors）的导数，关于向量、矩阵和高阶张量求导。</p> <h2 id="1-简化简化简化">1 简化，简化，简化</h2> <p>关于对数组求导的许多困惑都来自于想要一次性做太多的事情。这些“事情”包括一次性同时对多个组成部分的公式进行求导，在求和符号前面求导和应用链式求导法则。通过做这些事情的同时，我们更有可能犯错，至少在我们有经验之前是这样的。</p> <h3 id="11-扩展符号到显式求和方程式的每个部分">1.1 扩展符号到显式求和方程式的每个部分</h3> <p>为了简化一个给定的计算，对于输出的单个标量元素（<em>a single scalar element</em>）除了标量变量（<em>scalar variables</em>）写出显示公式通常是非常有用的。一旦对于输出的单个标量元素根据其它标量值有一个显式的公式，然后就可以使用微积分计算，这比同时尝试做所有的矩阵数学、求和和求导工作要简单得多。</p> <p><strong>Example.</strong> 假如我们有一个由一个 \(C\) 行 \(D\) 列的矩阵 \(W\) 乘以一个长度为 \(D\) 的列向量 \(\vec{x}\) 得到的长度为 \(C\) 的列向量 \(\vec{y}\) ：</p> \[\vec{y}=W\vec{x}\tag{1}\] <p>假如我们对 \(\vec{y}\) 关于 \(\vec{x}\) 的导数感兴趣。这个导数的完整表征需要 \(\vec{y}\) 的每一个分量关于 \(\vec{x}\) 的每一个分量的（偏）导数，在这个例子中，将包含 \(C\times D\) 个值，因为 \(\vec{y}\) 中有 \(C\) 个分量，在 \(x\) 中有 \(D\) 个分量。</p> <p>让我们开始计算其中的一个，对于 \(\vec{y}\) 的第 \(3\) 个分量关于关于 \(\vec{x}\) 的第 \(7\) 个分量；即我们想要计算：</p> \[\frac{\partial\vec{y}_3}{\partial\vec{x}_7}\] <p>这只是一个标量关于另一个标量的导数。</p> <p>要做的第一件事就是写出对于计算 \(\vec{y}_3\) 的公式，然后我们就可以对其求导。从矩阵-向量相乘的定义，\(\vec{y}_3\) 的值通过 \(W\) 的第 \(3\) 行和向量 \(\vec{x}\) 的点积计算得到：</p> \[\vec{y}_3=\sum_{j=1}^DW_{3,j}\vec{x}_j\tag{2}\] <p>此时，我们将原先的矩阵方程（公式 \((1)\) ）简化为一个标量方程。这使得计算想要的导数更加容易。</p> <h3 id="12-移除求和符号">1.2 移除求和符号</h3> <p>因为直接计算公式 \((2)\) 的导数是可以的，人们经常犯的错误就是当微分表达式中包含求和符号（\(\sum\)）或是连乘符号（\(\prod\)）。当我们开始计算时，写出来不包含任何求和符号确保做的每一步都是正确的有时候是非常有用的。使用 \(1\) 作为第一个索引，我们有：</p> \[\vec{y}_3=W_{3,1}\vec{x}_1+W_{3,2}\vec{x}_2+\dots+W_{3,7}\vec{x}_7+\dots+W_{3,D}\vec{x}_D\] <p>当然，我们明确地包括了含有 \(\vec{x}_7\) 这一项，因为这就是我们在此的不同之处。此时，我们可以看到对于 \(y_3\) 仅依赖在 \(\vec{x}_7\) 之上的表达式只有 \(W_{3,7}\vec{x}_7\) 这一个项。因为在累加中没有其它项包括 \(\vec{x}_7\) 即它们关于 \(\vec{x}_7\) 的导数都是 \(0\) 。因此，我们有：</p> \[\begin{split} \frac{\partial\vec{y}_3}{\partial\vec{x}_7} &amp;=\frac{\partial}{\partial\vec{x}_7}\left[W_{3,1}\vec{x}_1+W_{3,2}\vec{x}_2+\dots+W_{3,7}\vec{x}_7+\dots+W_{3,D}\vec{x}_D\right]\\ &amp;=0+0+\dots+\frac{\partial}{\partial\vec{x}_7}\left[W_{3,7}\vec{x}_7\right]+\dots+0\\ &amp;=\frac{\partial}{\partial\vec{x}_7}\left[W_{3,7}\vec{x}_7\right]\\ &amp;=W_{3,7} \end{split}\] <p>通过关注在 \(\vec{y}\) 的一个分量和 \(\vec{x}\) 的一个分量，我们尽可能地简化计算。在未来，当你感到困惑时，尝试减少一个问题最基本的设置可以帮助你查看哪里出错。</p> <h4 id="121-完善导数雅可比jacobian矩阵">1.2.1 完善导数：雅可比（<em>Jacobian</em>）矩阵</h4> <p>回想我们的原始目标是计算 \(\vec{y}\) 每一个分量关于 \(\vec{x}\) 的每一个分量的导数，并且我们注意到其中会有 \(C\times D\) 个。它们可以写成如下形式的一个矩阵：</p> \[\begin{bmatrix} \frac{\partial\vec{y}_1}{\partial\vec{x}_1}&amp;\frac{\partial\vec{y}_1}{\partial\vec{x}_2}&amp;\frac{\partial\vec{y}_1}{\partial\vec{x}_3}&amp;\dots&amp;\frac{\partial\vec{y}_1}{\partial\vec{x}_D}\\ \frac{\partial\vec{y}_2}{\partial\vec{x}_1}&amp;\frac{\partial\vec{y}_2}{\partial\vec{x}_2}&amp;\frac{\partial\vec{y}_2}{\partial\vec{x}_3}&amp;\dots&amp;\frac{\partial\vec{y}_2}{\partial\vec{x}_D}\\ \vdots&amp;\vdots&amp;\vdots&amp;\ddots &amp;\vdots\\ \frac{\partial\vec{y}_D}{\partial\vec{x}_1}&amp;\frac{\partial\vec{y}_D}{\partial\vec{x}_2}&amp;\frac{\partial\vec{y}_D}{\partial\vec{x}_3}&amp;\dots&amp;\frac{\partial\vec{y}_D}{\partial\vec{x}_D}\\ \end{bmatrix}\] <p>在这个特别的例子中，这个矩阵被称为雅可比矩阵（<em>Jacobian matrix</em>），但是这个术语对于我们的目的不重要。</p> <p>注意对于如下方程：</p> \[\vec{y}=W\vec{x}\] <p>\(\vec{y}_3\) 关于 \(\vec{x}_7\) 的部分简单地由 \(W_{3,7}\) 给出。如果你做相同的处理方式到其它部分上，你将会发现，对于所有的 \(i\) 和 \(j\) ：</p> \[\frac{\partial\vec{y}_i}{\partial\vec{x}_j}=W_{i,j}\] <p>这意味着偏导数的矩阵是</p> \[\begin{bmatrix} \frac{\partial\vec{y}_1}{\partial\vec{x}_1}&amp;\frac{\partial\vec{y}_1}{\partial\vec{x}_2}&amp;\frac{\partial\vec{y}_1}{\partial\vec{x}_3}&amp;\dots&amp;\frac{\partial\vec{y}_1}{\partial\vec{x}_D}\\ \frac{\partial\vec{y}_2}{\partial\vec{x}_1}&amp;\frac{\partial\vec{y}_2}{\partial\vec{x}_2}&amp;\frac{\partial\vec{y}_2}{\partial\vec{x}_3}&amp;\dots&amp;\frac{\partial\vec{y}_2}{\partial\vec{x}_D}\\ \vdots&amp;\vdots&amp;\vdots&amp;\ddots &amp;\vdots\\ \frac{\partial\vec{y}_D}{\partial\vec{x}_1}&amp;\frac{\partial\vec{y}_D}{\partial\vec{x}_2}&amp;\frac{\partial\vec{y}_D}{\partial\vec{x}_3}&amp;\dots&amp;\frac{\partial\vec{y}_D}{\partial\vec{x}_D}\\ \end{bmatrix} = \begin{bmatrix} W_{1,1}&amp;W_{1,2}&amp;W_{1,3}&amp;\dots&amp;W_{1,D}\\ W_{2,1}&amp;W_{2,2}&amp;W_{2,3}&amp;\dots&amp;W_{2,D}\\ \vdots&amp;\vdots&amp;\vdots&amp;\ddots&amp;\vdots\\ W_{C,1}&amp;W_{C,2}&amp;W_{C,3}&amp;\dots&amp;W_{C,D}\\ \end{bmatrix}\] <p>当然，这就是 \(W\) 本身。</p> <p>因此，做完这些所有工作后，我们可以得出结论</p> \[\vec{y}=W\vec{x}\] <p>我们有</p> \[\frac{\mathrm{d}\vec{y}}{\mathrm{d}\vec{x}}=W\] <h2 id="2-行向量而不是列向量">2 行向量而不是列向量</h2> <p>在使用不同的神经网络包时要密切关注权重（weight）矩阵和数据矩阵等的排列方式是很重要的。举个例子，如果一个数据矩阵 \(X\) 包含许多不同的向量，每一个向量表示一个输入，矩阵 \(X\) 的一行或是一列哪一个是数据向量？</p> <p>在第一章节的例子中，我们使用的向量 \(\vec{x}\) 是一个列向量。但是，当 \(\vec{x}\) 是一个行向量时你也应该有能力使用同样的基础想法。</p> <h3 id="21-example-2">2.1 Example 2</h3> <p>令 \(\vec{y}\) 的长度为 \(C\) 的行向量（<em>row vector</em>）是由另一个长度为 \(D\) 的行向量 \(\vec{x}\) 与 \(D\) 行 \(C\) 列的矩阵 \(W\) 相乘得到。</p> \[\vec{y}=\vec{x}W\] <p>重要地是，尽管 \(\vec{y}\) 和 \(\vec{x}\) 依旧有着相同数量的成分，\(W\) 的形状（shape）是我们之前使用的 \(W\) 的形状的转置（<em>transpose</em>）。尤其是，因为我们现在使用 \(\vec{x}\) 左乘，然而，之前的 \(\vec{x}\) 是在右边的，\(W\) 对于矩阵代数必须是转置的才行得通。</p> <p>在这个例子，你将会看到，通过写出</p> \[\vec{y}_3=\sum_{j=1}^D\vec{x}_jW_{j,3}\] <p>得到</p> \[\frac{\partial\vec{y}_3}{\partial\vec{x}_7}=W_{7,3}\] <p>注意到 \(W\) 的索引是与第一个例子是相反的。但是，当我们组成所有的雅可比矩阵，我们仍然可以看到此例中也是</p> \[\frac{\mathrm{d}\vec{y}}{\mathrm{d}\vec{x}}=W\tag{7}\] <h2 id="3-高于两维的处理">3 高于两维的处理</h2> <p>让我们来考虑另一个密切相关的问题，计算</p> \[\frac{\mathrm{d}\vec{y}}{\mathrm{d}W}\] <p>在这个例子中，\(\vec{y}\) 变量沿着一个坐标变化而 \(W\) 变量沿着两个坐标变化。因此，全部的导数最自然地包含在三维数组中。我们避免术语“三维矩阵（<em>three</em>-dimensional matrix）”，因为如何做定义在三维数组上的矩阵相乘和其它矩阵运算是不清晰的。</p> <p>三维数组的处理，找到一种输出排列它们的方法可能会变得更加麻烦。相反，我们应该简单地定义我们的结果为可以适用于所需三维数组的任意一个元素结果的公式。</p> <p>让我们再次计算在 \(\vec{y}\) 上的一个分量的标量导数，比如 \(\vec{y}_3\) 和 \(W\) 的一个成分，比如是 \(W_{7,8}\) 。让我们从相同的基本设置开始，其中我们根据其它标量分量写下一个 \(\vec{y}_3\) 的等式。现在，我们想要一个根据其它标量值表示 \(\vec{y}_3\) 的等式，并且显示出 \(W_{7,8}\) 在它的计算中扮演的角色。</p> <p>但是，我们可以看到，\(W_{7,8}\) 在 \(\vec{y}_3\) 的计算中是没有作用（<em>no role</em>）的，因为：</p> \[\vec{y}_3=\vec{x}_1W_{1,3}+\vec{x}_2W_{2,3}+\dots+\vec{x}_DW_{D,3} \tag{8}\] <p>换句话说，即：</p> \[\frac{\partial\vec{y}_3}{\partial W_{7,8}}=0\] <p>但是，\(\vec{y}_3\) 关于 \(W\) 的第 \(3\) 列元素的偏导数将一定不为 \(0\) 。举个例子，\(\vec{y}_3\) 关于 \(W_{2,3}\) 的导数如下给出：</p> \[\frac{\partial\vec{y}_3}{\partial W_{2,3}}=\vec{x}_2 \tag{9}\] <p>其可以通过公式 \((8)\) 简单地看出。</p> <p>总的来说，当 \(\vec{y}\) 的分量的索引等于 \(W\) 的第二个索引，导数就将非零，同时对于其它情况就为零。我们可以写出：</p> \[\frac{\partial\vec{y}_j}{\partial W_{i,j}}=\vec{x}_i\] <p>但是其它三维数组的元素将会是 \(0\) 。如果我们令 \(F\) 表示 \(\vec{y}\) 关于 \(W\) 的导数的三维数组，其中：</p> \[F_{i,j,k}=\frac{\partial\vec{y}_i}{\partial W_{j,k}}\] <p>则</p> \[F_{i,j,i}=\vec{x}_j\] <p>对于 \(F\) 的其它元素都为零。</p> <p>最后，如果我们定义一个新的二维（<em>two-dimensional</em>）数组 \(G\) 为：</p> \[G_{i,j}=F_{i,j,i}\] <p>我们可以看到我们需要关于 \(F\) 的所有信息都被存放到 \(G\) 中，并且 \(F\) 有用的（<em>non-trivial</em>）部分实际上是二维的，而不是三维的。</p> <p>在高效的神经网络实现中，将导数数组中重要的部分以一个紧凑的方式表示出是至关重要的。</p> <h2 id="4-多个数据点">4 多个数据点</h2> <p>重复之前的一些例子是很好的练习，并且使用 \(\vec{x}\) 的多个例子，堆叠在一起形成一个矩阵 \(X\) 。让我们假设每一个单独的 \(\vec{x}\) 是一个长度为 \(D\) 的行向量，\(X\) 是一个 \(N\) 行 \(D\) 列的二维数组。作为我们的上一个例子，\(W\) 将会是一个 \(D\) 行 \(C\) 列的矩阵。\(Y\) 由下给出：</p> \[Y=XW\] <p>也是一个 \(N\) 行 \(C\) 列的矩阵。因此，\(Y\) 的每一行将给出与输入 \(X\) 的相应行的相关联的行向量。</p> <p>坚持我们写出一个对于给定的输出成分的表达式的技术，我们有：</p> \[Y_{i,j}=\sum_{k=1}^DX_{i,k}W_{k,j}\] <p>我们立即可以从这个等式中看到导数：</p> \[\frac{\partial Y_{a,b}}{\partial X_{c,d}}\] <p>除了 \(a=c\) 的情况，它们都为零。这也就是因为每一个 \(Y\) 的分量仅仅通过 \(X\) 的相应的行计算得到，\(Y\) 和 \(X\) 的不同行之间分量的导数都为零。</p> <p>此外，我们可以看到：</p> \[\frac{\partial Y_{i,j}}{\partial X_{i,k}}=W_{k,j} \tag{10}\] <p>这完全不取决于上面我们正在比较的 \(X\) 和 \(Y\) 的行。</p> <p>实际上，矩阵 \(W\) 保持所有的这些部分，我们只需要记住根据公式 \((10)\) 索引到其中来获得我们想要的具体的偏导数。</p> <p>如果我们令 \(Y_{i,:}\) 为 \(Y\) 的第 \(i\) 行，令 \(X_{i,:}\) 为 \(X\) 的第 \(i\) 行，我们就可以看到：</p> \[\frac{\partial Y_{i,:}}{\partial X_{i,:}}=W\] <p>这是一个我们之前由公式 \((7)\) 得到的结果的简单的归纳。</p> <h2 id="链式法则与向量和矩阵的结合">链式法则与向量和矩阵的结合</h2> <p>现在我们已经解决了几个基础的例子，让我们结合这些思想到一个链式法则（<em>chain rule</em>）的例子上。同样，假设 \(\vec{y}\) 和 \(\vec{x}\) 都是列向量，让我们从这个等式开始：</p> \[\vec{y}=VW\vec{x}\] <p>并且尝试计算 \(\vec{y}\) 关于 \(\vec{x}\) 的导数。我们应该简单地观察两个矩阵 \(V\) 和 \(W\) 的乘积不过是另一个矩阵，记作 \(U\) ，因此</p> \[\frac{\mathrm{d}\vec{y}}{\mathrm{d}\vec{x}}=VW=U\] <p>但是，我们想要通过使用链式法则的处理得到中间结果的定义，以便我们可以看到在这种情况下链式法则如何应用到非标量导数上。</p> <p>让我们定义中间结果：</p> \[\vec{m}=W\vec{x}\] <p>然后我们有：</p> \[\vec{y}=V\vec{m}\] <p>然后我们使用链式法则写出：</p> \[\frac{\mathrm{d}\vec{y}}{\mathrm{d}\vec{x}}=\frac{\mathrm{d}\vec{y}}{\mathrm{d}\vec{m}}\frac{\mathrm{d}\vec{m}}{\mathrm{d}\vec{x}}\] <p>为了确保我们准确地知道这是什么意思，让我们一次分析一个分量的老方法，以 \(\vec{y}\) 的一个分量和 \(\vec{x}\) 的一个分量开始：</p> \[\frac{\mathrm{d}\vec{y}_i}{\mathrm{d}\vec{x}_j}=\frac{\mathrm{d}\vec{y}_i}{\mathrm{d}\vec{m}}\frac{\mathrm{d}\vec{m}}{\mathrm{d}\vec{x}_j}\] <p>但是我们应该如何准确地解释右边的乘积？链式法则的思想是以 \(\vec{y}_i\) 关于每一个标量（<em>each scalar</em>）中间变量的变化乘以（<em>multiply</em>）每一个标量中间变量关于 \(\vec{x}_j\) 的变化。尤其如果 \(\vec{m}\) 由 \(M\) 个分量组成，然后我们写出：</p> \[\frac{\mathrm{d}\vec{y}_i}{\mathrm{d}\vec{x}_j}=\sum_{k=1}^M\frac{\mathrm{d}\vec{y}_i}{\mathrm{d}\vec{m}_k}\frac{\mathrm{d}\vec{m}_k}{\mathrm{d}\vec{x}_j}\] <p>回想我们之前关于一个向量关于一个向量的导数的结果：</p> \[\frac{\mathrm{d}\vec{y}_i}{\mathrm{d}\vec{m}_k}\] <p>就是 \(V_{i,k}\) 并且：</p> \[\frac{\mathrm{d}\vec{m}_k}{\mathrm{d}\vec{x}_j}\] <p>就是 \(W_{k,j}\) 。所以我们可以写出：</p> \[\frac{\mathrm{d}\vec{y}_i}{\mathrm{d}\vec{x}_j}=\sum_{k=1}^MV_{i,k}W_{k,j}\] <p>其就是对 \(VW\) 的分量表达式，就是我们原先对这个问题的答案。</p> <p>总结一下，我们可以在向量和矩阵导数的背景下使用链式法则：</p> <ul> <li>明确说明中间结果和用于表示它们的变量</li> <li>表示最终导数各个分量的链式法则</li> <li>对链式法则表达式内的中间结果上适当求和</li> </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[[著] Erik Learned-Miller 本文翻译自 Vector, Matrix, and Tensor Derivatives 本人英语水平有限，文章中有翻译不到位的地方请热心指出并改正！]]></summary></entry></feed>
