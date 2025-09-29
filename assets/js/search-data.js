@@ -55,20 +55,9 @@ ninja.data = [{
           window.location.href = "/blog/2022/Ubuntu-22.04-%E5%AE%89%E8%A3%85-MySQL/";
         
       },
-    },{id: "post-clean-architecture",
+    },{id: "post-ubuntu-22-04-macos-monterey-主题",
       
-        title: "Clean Architecture",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/Clean-Architecture/";
-        
-      },
-    },{id: "post-latex-workshop-配置信息",
-      
-        title: "LaTeX Workshop 配置信息",
+        title: "Ubuntu 22.04 MacOS Monterey 主题",
       
       description: "",
       section: "Posts",
@@ -163,39 +152,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2020/%E5%85%B3%E4%BA%8E-Softmax-%E5%9B%9E%E5%BD%92%E7%9A%84%E5%8F%8D%E5%90%91%E4%BC%A0%E6%92%AD%E6%B1%82%E5%AF%BC%E6%95%B0%E8%BF%87%E7%A8%8B/";
-        
-      },
-    },{id: "post-基于xgboost模型的幸福度预测-阿里天池学习赛",
-      
-        title: "基于XGBoost模型的幸福度预测——阿里天池学习赛",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/%E5%9F%BA%E4%BA%8EXGBoost%E6%A8%A1%E5%9E%8B%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%BA%A6%E9%A2%84%E6%B5%8B-%E9%98%BF%E9%87%8C%E5%A4%A9%E6%B1%A0%E5%AD%A6%E4%B9%A0%E8%B5%9B/";
-        
-      },
-    },{id: "post-手把手搭建-bp-神经网络",
-      
-        title: "手把手搭建 BP 神经网络",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/%E6%89%8B%E6%8A%8A%E6%89%8B%E6%90%AD%E5%BB%BA-BP-%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/";
-        
-      },
-    },{id: "post-关于-shell-脚本",
-      
-        title: "关于 Shell 脚本",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2020/%E5%85%B3%E4%BA%8E-Shell-%E8%84%9A%E6%9C%AC/";
         
       },
     },{id: "post-银行家算法-求所有安全序列",
