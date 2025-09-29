@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-latex-不太简短的介绍",
-      
-        title: "LaTeX 不太简短的介绍",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/LaTeX%E4%B8%8D%E5%A4%AA%E7%AE%80%E7%9F%AD%E7%9A%84%E4%BB%8B%E7%BB%8D/";
-        
-      },
-    },{id: "post-ubuntu-22-04-安装-mysql",
+        },{id: "post-ubuntu-22-04-安装-mysql",
       
         title: "Ubuntu 22.04 安装 MySQL",
       
