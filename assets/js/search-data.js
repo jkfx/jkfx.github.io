@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-rtx-5060-ti-安装-tensorflow",
-      
-        title: "RTX 5060 Ti 安装 TensorFlow",
-      
-      description: "",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2022/RTX-5060-Ti-%E5%AE%89%E8%A3%85-TensorFlow/";
-        
-      },
-    },{id: "post-ubuntu-22-04-安装-mysql",
+        },{id: "post-ubuntu-22-04-安装-mysql",
       
         title: "Ubuntu 22.04 安装 MySQL",
       
