@@ -158,7 +158,7 @@ ninja.data = [{
       
         title: "关于 Softmax 回归的反向传播求导数过程",
       
-      description: "详细推导 Softmax 激活函数配合交叉熵损失函数的反向传播求导过程。",
+      description: "",
       section: "Posts",
       handler: () => {
         
