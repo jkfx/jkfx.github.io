@@ -30,9 +30,7 @@
       "startDate": "2022-05-01",
       "endDate": "2023-05-01",
       "summary": "",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     }
   ],
   "education": [
@@ -45,9 +43,7 @@
       "startDate": "2018-09-09",
       "endDate": "2022-06-15",
       "score": "*",
-      "courses": [
-        "Python"
-      ]
+      "courses": ["Python"]
     }
   ],
   "awards": [
@@ -89,34 +85,21 @@
       "name": "Promramming Language",
       "level": "Master",
       "icon": "",
-      "keywords": [
-        "C",
-        "Java",
-        "Matlab",
-        "Python",
-        "Dart",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SQL"
-      ]
+      "keywords": ["C", "Java", "Matlab", "Python", "Dart", "JavaScript", "HTML", "CSS", "SQL"]
     }
   ],
   "interests": [
     {
       "name": "",
       "icon": "",
-      "keywords": [
-        "promramming"
-      ]
+      "keywords": ["promramming"]
     }
   ],
   "projects": [
     {
       "name": "",
       "summary": "",
-      "highlights": [
-      ],
+      "highlights": [],
       "startDate": "",
       "endDate": "",
       "url": ""

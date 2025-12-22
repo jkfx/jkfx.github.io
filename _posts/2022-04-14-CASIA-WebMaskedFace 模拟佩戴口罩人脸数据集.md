@@ -2,9 +2,9 @@
 layout: post
 title: CASIA-WebMaskedFace 模拟佩戴口罩人脸数据集
 date: 2022-04-14 10:55
-description: 
-tags: 
-categories: 
+description:
+tags:
+categories:
 ---
 
 Based on CASIA-WebFace Dataset using MaskTheFace tool mask the face images of datasets.

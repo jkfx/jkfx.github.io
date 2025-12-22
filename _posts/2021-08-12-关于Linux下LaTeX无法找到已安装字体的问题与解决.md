@@ -2,9 +2,9 @@
 layout: post
 title: 关于Linux下LaTeX无法找到已安装字体的问题与解决
 date: 2021-08-12 22:47
-description: 
-tags: 
-categories: 
+description:
+tags:
+categories:
 ---
 
 当我在Ubuntu系统下使用Latex时，在编译渲染时报出了`Font "xxx" does not contain requested`这种错误，其中`xxx`就是你可能想使用的字体格式。
@@ -25,7 +25,7 @@ categories:
 
 ![image](https://tva4.sinaimg.cn/large/006VTcCxly1gtediiunx3j618z07d79402.jpg)
 
-可以看到终端给出的错误提示是未能找到已安装的字体（*installed font not found*），有了这句话的提示，笔者想的可能是，在我的系统上已安装了的字体中，在LaTeX中未能正确地引用，查看代码中可以看到：
+可以看到终端给出的错误提示是未能找到已安装的字体（_installed font not found_），有了这句话的提示，笔者想的可能是，在我的系统上已安装了的字体中，在LaTeX中未能正确地引用，查看代码中可以看到：
 
 ![image](https://tvax4.sinaimg.cn/large/006VTcCxly1gtedm8youxj30mt061jvl.jpg)
 

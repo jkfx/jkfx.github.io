@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 批量下载YouTube播放列表（playlist）视频、字幕
-date: 2021-07-21 15:30	
-description: 
-tags: 
-categories: 
+date: 2021-07-21 15:30
+description:
+tags:
+categories:
 ---
 
 ## 所需工具
@@ -12,13 +12,13 @@ categories:
 - [python](https://www.python.org/downloads/)
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases)
 - [FFmpeg](http://ffmpeg.org/download.html)
-- *Scientific上网*
+- _Scientific上网_
 
 其实可以直接使用*youtube-dl*执行文件直接下载，若我们需要对多个*YouTube*播放列表进行批量下载，便可利用*python*进行批处理，其中本文实现的功能就是对多个*YouTube*播放列表都创建一个对应的同名文件夹，然后将视频、字幕文件全部下载到一起。
 
 其中*FFmpeg*是*youtube-dl*用来合并视音频文件用的，虽然*YouTube*上视频的格式有*MP4*的格式，不需要对视频、音频文件进行合并，如果你需要下载*2K*、*4K*的高清晰度的视频文件，一般都是采用*[webm](https://baike.baidu.com/item/WebM/2455966?fr=aladdin)*的格式将视频、音频文件分开。尽管如此，*youtube-dl*也已经为我们造好了轮子，合并视音频文件的步骤无需我们干扰，只需要将其所用的工具添加到系统的**环境变量**。
 
-**再次说明**，你需要将下载下来的*youtube-dl*的可执行文件，以及*FFmpeg*的***bin***目录都添加到系统的**环境变量**中。
+**再次说明**，你需要将下载下来的*youtube-dl*的可执行文件，以及*FFmpeg*的**_bin_**目录都添加到系统的**环境变量**中。
 
 ## 实现代码
 
@@ -61,18 +61,18 @@ for (k, v) in m.items():
 >
 > 本文所用到的选项有：
 >
-> - *--write-sub* 下载视频对应的字幕文件
-> - *--sub-lang* 指定下载字幕文件的语言
->   - *en* 英语
->   - *zh-Hans* 中文简体
-> - *--write-auto-sub* 当原视频文件没有带中文简体的字幕时，需要使用本参数下载*自动翻译*的字幕文件
-> - *-f* 指定视频格式
+> - _--write-sub_ 下载视频对应的字幕文件
+> - _--sub-lang_ 指定下载字幕文件的语言
+>   - _en_ 英语
+>   - _zh-Hans_ 中文简体
+> - _--write-auto-sub_ 当原视频文件没有带中文简体的字幕时，需要使用本参数下载*自动翻译*的字幕文件
+> - _-f_ 指定视频格式
 >   - 这里的*bestvideo+bestaudio*的意思是下载视频清晰度最好的视频文件和音频质量最好的音频文件并且将它们合并
-> - *-o* 指定下载的文件的名称
->   - *%(title)s* 表明视频文件的标题名
->   - *%(ext)s* 下载文件的扩展格式
->   - *%(autonumber)s* 如果你想要对每个下载文件名称前面加上一个序号，便使用这个参数
-> - *--skip-download* 跳过视频文件仅下载字幕文件
+> - _-o_ 指定下载的文件的名称
+>   - _%(title)s_ 表明视频文件的标题名
+>   - _%(ext)s_ 下载文件的扩展格式
+>   - _%(autonumber)s_ 如果你想要对每个下载文件名称前面加上一个序号，便使用这个参数
+> - _--skip-download_ 跳过视频文件仅下载字幕文件
 
 ## 完整代码
 
