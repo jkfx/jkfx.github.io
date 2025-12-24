@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "post-rtx-5060-ti-安装-tensorflow",
+        },{id: "post-tmux-user-guides",
+      
+        title: "tmux User Guides",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/tmux-User-Guides/";
+        
+      },
+    },{id: "post-rtx-5060-ti-安装-tensorflow",
       
         title: "RTX 5060 Ti 安装 TensorFlow",
       
