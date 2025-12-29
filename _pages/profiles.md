@@ -10,8 +10,8 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: prof_pic.jpg
     content: about_geekfx.md
-    image_circular: false # crops the image to make it circular
+    # image:
+    # image_circular: false # crops the image to make it circular
     more_info: >
 ---
