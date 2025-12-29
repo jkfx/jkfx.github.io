@@ -18,28 +18,28 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "The code itself embodies a dialectic, and open source stands as the foundation of truth.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "It is a journey through the realm of code, where each line refines itself like an iterating function, debugging the errors of ignorance.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "Knowledge is not a mere algorithm to be solved, but a quest for truth.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-people",
           title: "people",
-          description: "GeekFx is more than a name; it represents a passion for technology and growth. From &quot;F(eng)&quot; to &quot;X(ing),&quot; from &quot;Geek&quot; to &quot;Fx,&quot; it embodies a bold journey of continuous innovation and progress, reflecting an unyielding spirit of advancement in technology.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
