@@ -1,108 +1,119 @@
 {
   "basics": {
-    "name": "GeekFx",
-    "label": "programmer",
+    "name": "John Doe",
+    "label": "Programmer",
     "image": "",
-    "email": "geekjkfx@qq.com",
-    "phone": "+86 186*****868",
-    "url": "https://jkfx.github.io",
-    "summary": "In GeekFx, knowledge is not a mere algorithm to be solved, but a quest for truth. It is a journey through the realm of code, where each line refines itself like an iterating function, debugging the errors of ignorance. The path is not a constant stream of bits, but a recursive loop, where every iteration brings us closer to the ideal, moving ever forward toward the sharp edge of progress.",
+    "email": "john@gmail.com",
+    "phone": "(912) 555-4321",
+    "url": "https://johndoe.com",
+    "summary": "A summary of John Doe…",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
+      "countryCode": "US",
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "",
-        "username": "",
-        "url": ""
+        "network": "Twitter",
+        "username": "john",
+        "url": "https://twitter.com/john"
       }
     ]
   },
   "work": [
     {
-      "name": "青岛往来网络科技有限公司",
-      "position": "Flutter软件开发工程师",
-      "url": "http://www.qdwanglai.com/",
-      "startDate": "2022-05-01",
-      "endDate": "2023-05-01",
-      "summary": "",
-      "highlights": [""]
+      "name": "Company",
+      "position": "President",
+      "url": "https://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description…",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
     {
-      "institution": "Qingdao Institute of Technology",
-      "location": "Qingdao, Shandong",
-      "url": "https://www.qit.edu.cn/",
-      "area": "Computer Science",
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
       "studyType": "Bachelor",
-      "startDate": "2018-09-09",
-      "endDate": "2022-06-15",
-      "score": "*",
-      "courses": ["Python"]
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
     }
   ],
   "awards": [
     {
-      "title": "National College Student Mathematical Modeling Competition",
-      "date": "2020-10",
-      "awarder": "second prize",
-      "url": "",
-      "summary": ""
-    },
-    {
-      "title": "the 11th Blue Bridge Cup National Software Competition",
-      "date": "2020-10",
-      "awarder": "first prize",
-      "url": "",
-      "summary": ""
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
     }
   ],
   "certificates": [
     {
-      "name": "CET-4",
-      "date": "2018-01-01",
-      "issuer": "the Ministry of Education of the People's Republic of China",
-      "url": "",
-      "icon": ""
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
     }
   ],
   "publications": [
     {
-      "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "url": "",
-      "summary": ""
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
     }
   ],
   "skills": [
     {
-      "name": "Promramming Language",
+      "name": "Web Development",
       "level": "Master",
-      "icon": "",
-      "keywords": ["C", "Java", "Matlab", "Python", "Dart", "JavaScript", "HTML", "CSS", "SQL"]
+      "keywords": ["HTML", "CSS", "JavaScript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
     {
-      "name": "",
-      "icon": "",
-      "keywords": ["promramming"]
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "",
-      "summary": "",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": ["Won award at AIHacks 2016"],
+      "url": "https://project.com/"
     }
   ]
 }

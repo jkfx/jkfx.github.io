@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Knowledge is not a mere algorithm to be solved, but a quest for truth.
+description:
 nav: true
 nav_order: 4
 ---

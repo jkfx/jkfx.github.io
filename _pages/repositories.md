@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: The code itself embodies a dialectic, and open source stands as the foundation of truth.
+description:
 nav: true
 nav_order: 2
 ---

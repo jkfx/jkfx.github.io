@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: GeekFx is more than a name; it represents a passion for technology and growth. From "F(eng)" to "X(ing)," from "Geek" to "Fx," it embodies a bold journey of continuous innovation and progress, reflecting an unyielding spirit of advancement in technology.
+description:
 nav: true
 nav_order: 5
 

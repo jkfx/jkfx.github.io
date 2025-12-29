@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: It is a journey through the realm of code, where each line refines itself like an iterating function, debugging the errors of ignorance.
+description:
 nav: true
 nav_order: 3
 display_categories: []
