@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-tmux-user-guides",
+        },{id: "post-shortcuts-cheat-sheet",
+      
+        title: "Shortcuts Cheat Sheet",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Shortcuts-Cheat-Sheet/";
+        
+      },
+    },{id: "post-tmux-user-guides",
       
         title: "tmux User Guides",
       
