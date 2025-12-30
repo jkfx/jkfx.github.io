@@ -645,3 +645,5 @@ jsonresume:
   - languages
   - interests
   - references
+
+timezone: Asia/Shanghai
