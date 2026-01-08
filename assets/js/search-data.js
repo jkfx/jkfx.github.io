@@ -51,7 +51,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/news/";
           },
-        },{id: "post-shortcuts-cheat-sheet",
+        },{id: "post-latex-math-typesetting-guide",
+      
+        title: "LaTeX Math Typesetting Guide",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2026/LaTeX-Math-Typesetting-Guide/";
+        
+      },
+    },{id: "post-shortcuts-cheat-sheet",
       
         title: "Shortcuts Cheat Sheet",
       
