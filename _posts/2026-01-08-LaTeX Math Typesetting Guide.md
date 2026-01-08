@@ -4,6 +4,8 @@ title: LaTeX Math Typesetting Guide
 date: 2026-01-08 11:52
 ---
 
+{% raw %}
+
 ## Style Issue Basics
 
 ### Variables
@@ -645,3 +647,5 @@ $$
   \tag{34a}
 \end{equation*}
 $$
+
+{% endraw %}
