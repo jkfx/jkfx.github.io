@@ -1,1 +1,1 @@
-window.MathJax={tex:{tags:"ams"}};
+window.MathJax={tex:{tags:"ams",inlineMath:[["$","$"],["\\(","\\)"]],displayMath:[["$$","$$"],["\\[","\\]"]],processEscapes:!0}};
