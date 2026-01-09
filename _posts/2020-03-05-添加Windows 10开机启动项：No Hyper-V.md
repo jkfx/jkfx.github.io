@@ -2,9 +2,6 @@
 layout: post
 title: 添加Windows 10开机启动项：No Hyper-V
 date: 2020-03-05 21:59
-description:
-tags:
-categories:
 ---
 
 在Windows 10 1903版本加入了一项沙盒功能，1903版本以上的系统可以在**控制面板-程序和功能-启用或关闭Windows功能**中勾选**Windows 沙盒选项**，根据操作重启后即可打开沙盒功能。

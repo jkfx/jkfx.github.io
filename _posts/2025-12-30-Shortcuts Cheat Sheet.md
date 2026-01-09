@@ -2,9 +2,6 @@
 layout: post
 title: Shortcuts Cheat Sheet
 date: 2025-12-30 15:12
-description:
-tags:
-categories:
 ---
 
 ```mermaid

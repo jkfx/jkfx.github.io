@@ -2,9 +2,6 @@
 layout: post
 title: LaTeX Workshop 配置信息
 date: 2022-02-25 12:33
-description:
-tags:
-categories:
 ---
 
 使用 VS Code 编写 LaTeX 论文时，安装 LaTeX Workshop 插件可以实现非常多的功能，但是由于 LaTeX Workshop 默认配置的编译命令是 `latexmk` ，而在编写中文论文时通常需要使用 `xelatex` 命令来编译文件源代码，所以为了正常使用 LaTeX Workshop 编写中文论文，通常需要对 LaTeX Workshop 进行自定义修改。

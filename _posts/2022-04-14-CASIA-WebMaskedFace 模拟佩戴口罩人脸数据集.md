@@ -2,9 +2,6 @@
 layout: post
 title: CASIA-WebMaskedFace 模拟佩戴口罩人脸数据集
 date: 2022-04-14 10:55
-description:
-tags:
-categories:
 ---
 
 Based on CASIA-WebFace Dataset using MaskTheFace tool mask the face images of datasets.
@@ -15,7 +12,7 @@ Based on CASIA-WebFace Dataset using MaskTheFace tool mask the face images of da
 
 此数据集是在源数据集 [CASIA-Webface](https://arxiv.org/pdf/1411.7923v1.pdf) 之上，使用 [MaskTheFace](https://arxiv.org/abs/2008.11104) 工具对 CASIA-Webface 数据集中的图像进行佩戴口罩，此数据所涉及到的口罩类型有：Surgical（白色医用外科口罩）、Surgical Blue（蓝色医用外科口罩）、N95、KN95以及Cloth（黑色布质口罩）。口罩的分布类型都是均匀分布随机生成的。
 
-![image](https://tvax4.sinaimg.cn/large/006VTcCxly1h191411yh2j313w0aujyr.jpg)
+![image](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/006VTcCxly1h191411yh2j313w0aujyr.jpg)
 
 关于口罩类型以及口罩颜色和材质的类型的更多介绍，可以查看 [原工具仓库](https://github.com/aqeelanwar/MaskTheFace) 。
 
@@ -29,13 +26,13 @@ CASIA-WebMaskedFace 有 10,575 个实体人物， 494,414 张人脸图像。
 
 ### 数据示例
 
-![image](https://tvax1.sinaimg.cn/large/006VTcCxly1h191m9mhfyj30pf0atwme.jpg)
+![image](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/006VTcCxly1h191m9mhfyj30pf0atwme.jpg)
 
-![image](https://tvax4.sinaimg.cn/large/006VTcCxly1h191pig6fmj30pm0al7be.jpg)
+![image](https://image.baidu.com/search/down?url=https://tvax4.sinaimg.cn/large/006VTcCxly1h191pig6fmj30pm0al7be.jpg)
 
-![image](https://tvax2.sinaimg.cn/large/006VTcCxly1h191ojwfj1j30pd0aswmv.jpg)
+![image](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/006VTcCxly1h191ojwfj1j30pd0aswmv.jpg)
 
-![image](https://tvax1.sinaimg.cn/large/006VTcCxly1h191qg3bm0j30pe0amwn6.jpg)
+![image](https://image.baidu.com/search/down?url=https://tvax1.sinaimg.cn/large/006VTcCxly1h191qg3bm0j30pe0amwn6.jpg)
 
 ## 下载地址
 

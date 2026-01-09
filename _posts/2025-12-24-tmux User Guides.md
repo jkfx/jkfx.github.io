@@ -2,9 +2,6 @@
 layout: post
 title: tmux User Guides
 date: 2025-12-19 17:41
-description:
-tags:
-categories:
 ---
 
 - [Basic concepts](#basic-concepts)

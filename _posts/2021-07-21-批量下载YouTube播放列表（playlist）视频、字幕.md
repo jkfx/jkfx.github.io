@@ -2,9 +2,6 @@
 layout: post
 title: 批量下载YouTube播放列表（playlist）视频、字幕
 date: 2021-07-21 15:30
-description:
-tags:
-categories:
 ---
 
 ## 所需工具
@@ -34,7 +31,7 @@ m = {
 
 这里以麻省理工公开课[MIT 6.S191](http://introtodeeplearning.com/)为例，打开对应课程的YouTube播放列表。
 
-![image](//tva1.sinaimg.cn/large/006VTcCxgy1gsokx7w77oj31z2164e81.jpg)
+![image](https://image.baidu.com/search/down?url=https://tva1.sinaimg.cn/large/006VTcCxgy1gsokx7w77oj31z2164e81.jpg)
 
 将对应播放列表的名称和链接放入python字典中。
 
@@ -101,6 +98,6 @@ for (k, v) in m.items():
 
 如果你的梯子网速给力的话，下载速度还是非常可观的。
 
-![image](//tvax2.sinaimg.cn/large/006VTcCxgy1gsolqbnjbzj31ta0zhgwg.jpg)
+![image](https://image.baidu.com/search/down?url=https://tvax2.sinaimg.cn/large/006VTcCxgy1gsolqbnjbzj31ta0zhgwg.jpg)
 
-![image](//tva3.sinaimg.cn/large/006VTcCxgy1gsolomow99j31z4168kjl.jpg)
+![image](https://image.baidu.com/search/down?url=https://tva3.sinaimg.cn/large/006VTcCxgy1gsolomow99j31z4168kjl.jpg)

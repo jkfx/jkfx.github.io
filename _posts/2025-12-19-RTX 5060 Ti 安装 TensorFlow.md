@@ -2,9 +2,6 @@
 layout: post
 title: RTX 5060 Ti 安装 TensorFlow
 date: 2025-12-19 17:41
-description:
-tags:
-categories:
 ---
 
 > RTX 5060 has compute capability 12.0 - a very new architecture. Stable TensorFlow versions lack pre-compiled GPU kernels for this architecture, causing JIT compilation failures for certain operations (especially float32).
