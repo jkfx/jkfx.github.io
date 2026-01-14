@@ -4,6 +4,34 @@ title: LaTeX Math Typesetting Guide
 date: 2026-01-08 11:52
 ---
 
+- [Style Issue Basics](#style-issue-basics)
+  - [Variables](#variables)
+  - [Vectors](#vectors)
+  - [Functions](#functions)
+  - [Alignment and Line Breaks for Display Formulas](#alignment-and-line-breaks-for-display-formulas)
+  - [Avoid Obsolete Codes and Delimiters (`eqnarray`, `$$` display math delimiters)](#avoid-obsolete-codes-and-delimiters-eqnarray--display-math-delimiters)
+  - [Use Appropriate Delimiters for Display Equations](#use-appropriate-delimiters-for-display-equations)
+  - [mathcal vs. RSFS script](#mathcal-vs-rsfs-script)
+- [Example I: Cases](#example-i-cases)
+  - [Example 1-1](#example-1-1)
+  - [Example 1-2](#example-1-2)
+  - [Example 1-3](#example-1-3)
+- [Example II: Text Functions](#example-ii-text-functions)
+  - [Example 2-1](#example-2-1)
+  - [Example 2-2](#example-2-2)
+  - [Example 2-3](#example-2-3)
+- [Example III: Limits](#example-iii-limits)
+  - [Example 3-1](#example-3-1)
+  - [Example 3-2](#example-3-2)
+- [Example IV: Text Acronyms](#example-iv-text-acronyms)
+  - [Example 4-1](#example-4-1)
+  - [Example 4-2](#example-4-2)
+  - [Example 4-3](#example-4-3)
+- [Example V: Fences](#example-v-fences)
+  - [Example 5-1](#example-5-1)
+  - [Example 5-2](#example-5-2)
+  - [Example 5-3](#example-5-3)
+
 {% raw %}
 
 ## Style Issue Basics
